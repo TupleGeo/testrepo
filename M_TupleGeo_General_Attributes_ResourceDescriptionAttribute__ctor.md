@@ -1,0 +1,26 @@
+# ResourceDescriptionAttribute Constructor 
+ 
+
+Initializes a <a href="T_TupleGeo_General_Attributes_ResourceDescriptionAttribute">ResourceDescriptionAttribute</a>.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public ResourceDescriptionAttribute(
+	string description,
+	Type resourcesType
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>description</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The description that the <a href="T_TupleGeo_General_Attributes_ResourceDescriptionAttribute">ResourceDescriptionAttribute</a> sets.</dd><dt>resourcesType</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">System.Type</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the resources.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Attributes_ResourceDescriptionAttribute">ResourceDescriptionAttribute Class</a><br /><a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes Namespace</a><br />

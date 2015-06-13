@@ -1,0 +1,47 @@
+# ResourceDescriptionAttribute Methods
+ 
+
+The <a href="T_TupleGeo_General_Attributes_ResourceDescriptionAttribute">ResourceDescriptionAttribute</a> type exposes the following members.
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/8tc00x7c" target="_blank">Equals</a></td><td>
+Returns whether the value of the given object is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/xwb66ftt" target="_blank">DescriptionAttribute</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/xwb66ftt" target="_blank">DescriptionAttribute</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a></td><td>
+Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ze5wss5z" target="_blank">GetHashCode</a></td><td> (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/xwb66ftt" target="_blank">DescriptionAttribute</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a></td><td>
+Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the current instance.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dsfz0dx3" target="_blank">IsDefaultAttribute</a></td><td>
+Returns a value indicating whether this is the default <a href="http://msdn2.microsoft.com/en-us/library/xwb66ftt" target="_blank">DescriptionAttribute</a> instance.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/xwb66ftt" target="_blank">DescriptionAttribute</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/wy7chz44" target="_blank">Match</a></td><td>
+When overridden in a derived class, returns a value that indicates whether this instance equals a specified object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a></td><td>
+Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a></td><td>
+Returns a string that represents the current object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr></table>&nbsp;
+<a href="#resourcedescriptionattribute-methods">Back to Top</a>
+
+## Extension Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")</td><td><a href="M_TupleGeo_General_ObjectExtensions_GetPropertyValueString">GetPropertyValueString</a></td><td>
+Gets a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a> representation of the value of a specified property of an object.
+ (Defined by <a href="T_TupleGeo_General_ObjectExtensions">ObjectExtensions</a>.)</td></tr></table>&nbsp;
+<a href="#resourcedescriptionattribute-methods">Back to Top</a>
+
+## Explicit Interface Implementations
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Explicit interface implementation](media/pubinterface.gif "Explicit interface implementation")![Private method](media/privmethod.gif "Private method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bb336374" target="_blank">_Attribute.GetIDsOfNames</a></td><td>
+Maps a set of names to a corresponding set of dispatch identifiers.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td></tr><tr><td>![Explicit interface implementation](media/pubinterface.gif "Explicit interface implementation")![Private method](media/privmethod.gif "Private method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bb339743" target="_blank">_Attribute.GetTypeInfo</a></td><td>
+Retrieves the type information for an object, which can be used to get the type information for an interface.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td></tr><tr><td>![Explicit interface implementation](media/pubinterface.gif "Explicit interface implementation")![Private method](media/privmethod.gif "Private method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bb340142" target="_blank">_Attribute.GetTypeInfoCount</a></td><td>
+Retrieves the number of type information interfaces that an object provides (either 0 or 1).
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td></tr><tr><td>![Explicit interface implementation](media/pubinterface.gif "Explicit interface implementation")![Private method](media/privmethod.gif "Private method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bb337648" target="_blank">_Attribute.Invoke</a></td><td>
+Provides access to properties and methods exposed by an object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td></tr></table>&nbsp;
+<a href="#resourcedescriptionattribute-methods">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Attributes_ResourceDescriptionAttribute">ResourceDescriptionAttribute Class</a><br /><a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes Namespace</a><br />

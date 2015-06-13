@@ -1,0 +1,26 @@
+# ActionCommand Constructor 
+ 
+
+Initializes the <a href="T_TupleGeo_Apps_Presentation_Commands_ActionCommand">ActionCommand</a>.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.35961 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public ActionCommand(
+	Action<Object> executeAction,
+	Func<Object, bool> canExecuteFunction
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>executeAction</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8" target="_blank">System.Action</a>(<a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>)<br />The action to be executed.</dd><dt>canExecuteFunction</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/bb549151" target="_blank">System.Func</a>(<a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>, <a href="http://msdn2.microsoft.com/en-us/library/a28wyd50" target="_blank">Boolean</a>)<br />The function which determines if the action can be executed.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_Commands_ActionCommand">ActionCommand Class</a><br /><a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands Namespace</a><br />

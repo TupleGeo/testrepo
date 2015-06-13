@@ -1,0 +1,25 @@
+# EsriFileType Enumeration
+ 
+
+Types of vector files.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_FileTypes">TupleGeo.General.FileTypes</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+[SerializableAttribute]
+[XmlTypeAttribute(AnonymousType = false)]
+public enum EsriFileType
+```
+
+
+## Members
+&nbsp;<table><tr><th></th><th>Member name</th><th>Value</th><th>Description</th></tr><tr><td /><td target="F:TupleGeo.General.FileTypes.EsriFileType.Mxd">**Mxd**</td><td>0</td><td>ESRI ArcMap map document file format.</td></tr><tr><td /><td target="F:TupleGeo.General.FileTypes.EsriFileType.Mxt">**Mxt**</td><td>1</td><td>Adobe Illustrator graphics file format.</td></tr><tr><td /><td target="F:TupleGeo.General.FileTypes.EsriFileType.Pat_ArcInfo">**Pat_ArcInfo**</td><td>2</td><td>Polygon Attribute Table file format.</td></tr><tr><td /><td target="F:TupleGeo.General.FileTypes.EsriFileType.Shp">**Shp**</td><td>3</td><td>ESRI Shapefile format.</td></tr></table>
+
+## See Also
+
+
+#### Reference
+<a href="N_TupleGeo_General_FileTypes">TupleGeo.General.FileTypes Namespace</a><br />

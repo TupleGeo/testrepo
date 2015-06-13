@@ -1,0 +1,14 @@
+# TupleGeo.General.Windows.Data Namespace
+ 
+
+-
+
+
+## Classes
+&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter">EnumToResourceDescriptionConverter</a></td><td>
+Converts the value of an enumeration to a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a> having the description of this value.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Windows_Data_Filter">Filter</a></td><td>
+The object used to define a filter capable to be used in a CollectionViewsource for filtering rows.</td></tr></table>
+
+## Interfaces
+&nbsp;<table><tr><th></th><th>Interface</th><th>Description</th></tr><tr><td>![Public interface](media/pubinterface.gif "Public interface")</td><td><a href="T_TupleGeo_General_Windows_Data_IFiltering">IFiltering</a></td><td>
+The contract for those objects need to provide <a href="http://msdn2.microsoft.com/en-us/library/ms613527" target="_blank">CollectionViewSource</a> filtering capabilities.</td></tr></table>&nbsp;

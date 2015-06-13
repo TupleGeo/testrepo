@@ -1,0 +1,23 @@
+# BaseViewModel(*T*).Title Property 
+ 
+
+Gets / Sets the title of the view model.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.35961 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public virtual string Title { get; }
+```
+
+
+#### Property Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a><br />\[Missing <value> documentation for "P:TupleGeo.Apps.Presentation.BaseViewModel`1.Title"\]
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_BaseViewModel_1">BaseViewModel(T) Class</a><br /><a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation Namespace</a><br />

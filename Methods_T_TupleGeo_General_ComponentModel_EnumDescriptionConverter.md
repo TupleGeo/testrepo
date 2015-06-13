@@ -1,0 +1,118 @@
+# EnumDescriptionConverter Methods
+ 
+
+The <a href="T_TupleGeo_General_ComponentModel_EnumDescriptionConverter">EnumDescriptionConverter</a> type exposes the following members.
+
+
+## Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/92580th5" target="_blank">CanConvertFrom(Type)</a></td><td>
+Returns whether this converter can convert an object of the given type to the type of this converter.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/at9d6zbw" target="_blank">CanConvertFrom(ITypeDescriptorContext, Type)</a></td><td>
+Gets a value indicating whether this converter can convert an object in the given source type to an enumeration object using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/a1155ebw" target="_blank">CanConvertTo(Type)</a></td><td>
+Returns whether this converter can convert the object to the specified type.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4w8cbeh1" target="_blank">CanConvertTo(ITypeDescriptorContext, Type)</a></td><td>
+Gets a value indicating whether this converter can convert an object to the given destination type using the context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ef83h055" target="_blank">ConvertFrom(Object)</a></td><td>
+Converts the given value to the type of this converter.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom">ConvertFrom(ITypeDescriptorContext, CultureInfo, Object)</a></td><td>
+Converts a string containing the description of an enumerated value in to the enumerated value.
+ (Overrides <a href="http://msdn2.microsoft.com/en-us/library/zwfsya39" target="_blank">EnumConverter.ConvertFrom(ITypeDescriptorContext, CultureInfo, Object)</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/hceyy41f" target="_blank">ConvertFromInvariantString(String)</a></td><td>
+Converts the given string to the type of this converter, using the invariant culture.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7279h7xs" target="_blank">ConvertFromInvariantString(ITypeDescriptorContext, String)</a></td><td>
+Converts the given string to the type of this converter, using the invariant culture and the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/25ds5cb6" target="_blank">ConvertFromString(String)</a></td><td>
+Converts the specified text to an object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/565ff3sw" target="_blank">ConvertFromString(ITypeDescriptorContext, String)</a></td><td>
+Converts the given text to an object, using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/2kf8exy6" target="_blank">ConvertFromString(ITypeDescriptorContext, CultureInfo, String)</a></td><td>
+Converts the given text to an object, using the specified context and culture information.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/y13battt" target="_blank">ConvertTo(Object, Type)</a></td><td>
+Converts the given value object to the specified type, using the arguments.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertTo">ConvertTo(ITypeDescriptorContext, CultureInfo, Object, Type)</a></td><td>
+Converts an enumerated value to a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>.
+ (Overrides <a href="http://msdn2.microsoft.com/en-us/library/s4skd538" target="_blank">EnumConverter.ConvertTo(ITypeDescriptorContext, CultureInfo, Object, Type)</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/w3yk2e6k" target="_blank">ConvertToInvariantString(Object)</a></td><td>
+Converts the specified value to a culture-invariant string representation.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/6xc1782a" target="_blank">ConvertToInvariantString(ITypeDescriptorContext, Object)</a></td><td>
+Converts the specified value to a culture-invariant string representation, using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/92ybstc2" target="_blank">ConvertToString(Object)</a></td><td>
+Converts the specified value to a string representation.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/1w7yewa7" target="_blank">ConvertToString(ITypeDescriptorContext, Object)</a></td><td>
+Converts the given value to a string representation, using the given context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/8y9ba363" target="_blank">ConvertToString(ITypeDescriptorContext, CultureInfo, Object)</a></td><td>
+Converts the given value to a string representation, using the specified context and culture information.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bx8d838t" target="_blank">CreateInstance(IDictionary)</a></td><td>
+Re-creates an <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a> given a set of property values for the object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4tz8f74s" target="_blank">CreateInstance(ITypeDescriptorContext, IDictionary)</a></td><td>
+Creates an instance of the type that this <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a> is associated with, using the specified context, given a set of property values for the object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a></td><td>
+Determines whether the specified object is equal to the current object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a></td><td>
+Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/aes84x51" target="_blank">GetConvertFromException</a></td><td>
+Returns an exception to throw when a conversion cannot be performed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/zaszsk1y" target="_blank">GetConvertToException</a></td><td>
+Returns an exception to throw when a conversion cannot be performed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/wd3a73dd" target="_blank">GetCreateInstanceSupported()</a></td><td>
+Returns whether changing a value on this object requires a call to the <a href="http://msdn2.microsoft.com/en-us/library/bx8d838t" target="_blank">CreateInstance(IDictionary)</a> method to create a new value.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ksc29xs7" target="_blank">GetCreateInstanceSupported(ITypeDescriptorContext)</a></td><td>
+Returns whether changing a value on this object requires a call to <a href="http://msdn2.microsoft.com/en-us/library/bx8d838t" target="_blank">CreateInstance(IDictionary)</a> to create a new value, using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription">GetEnumDescription(Enum)</a></td><td>
+Gets the neutral culture <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description value of an enum value.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_1">GetEnumDescription(Enum, String)</a></td><td>
+Gets the <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description value of an enum value in the specified culture.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_2">GetEnumDescription(Type, String)</a></td><td>
+Gets the neutral culture <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description value of a specified enum value.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_3">GetEnumDescription(Type, String, String)</a></td><td>
+Gets the <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description value of a specified enum value in the specified culture.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions">GetEnumDescriptions(Enum)</a></td><td>
+Gets the neutral culture descriptions of all enumerated values found in an enumeration.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_2">GetEnumDescriptions(Type)</a></td><td>
+Gets the neutral culture descriptions of all enumerated values found in an enumeration.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_1">GetEnumDescriptions(Enum, String)</a></td><td>
+Gets the descriptions in a specified culture of all enumerated values found in an enumeration.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_3">GetEnumDescriptions(Type, String)</a></td><td>
+Gets the descriptions of all enumerated values found in an enumeration for a specified culture.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")![Static member](media/static.gif "Static member")</td><td><a href="M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumValue">GetEnumValue</a></td><td>
+Gets the value of an enumeration, based on it's description attribute or named value.</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a></td><td>
+Serves as a hash function for a particular type.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/fh8bbs91" target="_blank">GetProperties(Object)</a></td><td>
+Returns a collection of properties for the type of array specified by the value parameter.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/yszc48z4" target="_blank">GetProperties(ITypeDescriptorContext, Object)</a></td><td>
+Returns a collection of properties for the type of array specified by the value parameter, using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/taw9tc2y" target="_blank">GetProperties(ITypeDescriptorContext, Object, Attribute[])</a></td><td>
+Returns a collection of properties for the type of array specified by the value parameter, using the specified context and attributes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7afsdzes" target="_blank">GetPropertiesSupported()</a></td><td>
+Returns whether this object supports properties.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/5es32bbf" target="_blank">GetPropertiesSupported(ITypeDescriptorContext)</a></td><td>
+Returns whether this object supports properties, using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/k5079aa5" target="_blank">GetStandardValues()</a></td><td>
+Returns a collection of standard values from the default context for the data type this type converter is designed for.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/9285z7wf" target="_blank">GetStandardValues(ITypeDescriptorContext)</a></td><td>
+Gets a collection of standard values for the data type this validator is designed for.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ec10dksk" target="_blank">GetStandardValuesExclusive()</a></td><td>
+Returns whether the collection of standard values returned from <a href="http://msdn2.microsoft.com/en-us/library/k5079aa5" target="_blank">GetStandardValues()</a> is an exclusive list.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/wk0f58sc" target="_blank">GetStandardValuesExclusive(ITypeDescriptorContext)</a></td><td>
+Gets a value indicating whether the list of standard values returned from <a href="http://msdn2.microsoft.com/en-us/library/k5079aa5" target="_blank">GetStandardValues()</a> is an exclusive list using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/94t8fch0" target="_blank">GetStandardValuesSupported()</a></td><td>
+Returns whether this object supports a standard set of values that can be picked from a list.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dx2dexbk" target="_blank">GetStandardValuesSupported(ITypeDescriptorContext)</a></td><td>
+Gets a value indicating whether this object supports a standard set of values that can be picked from a list using the specified context.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a></td><td>
+Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the current instance.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/tez461eb" target="_blank">IsValid(Object)</a></td><td>
+Returns whether the given value object is valid for this type.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/t9145152" target="_blank">IsValid(ITypeDescriptorContext, Object)</a></td><td>
+Gets a value indicating whether the given object value is valid for this type.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/w087sxab" target="_blank">EnumConverter</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a></td><td>
+Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr><tr><td>![Protected method](media/protmethod.gif "Protected method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/55d6yhs3" target="_blank">SortProperties</a></td><td>
+Sorts a collection of properties.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/x1z9x06x" target="_blank">TypeConverter</a>.)</td></tr><tr><td>![Public method](media/pubmethod.gif "Public method")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a></td><td>
+Returns a string that represents the current object.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td></tr></table>&nbsp;
+<a href="#enumdescriptionconverter-methods">Back to Top</a>
+
+## Extension Methods
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public Extension Method](media/pubextension.gif "Public Extension Method")</td><td><a href="M_TupleGeo_General_ObjectExtensions_GetPropertyValueString">GetPropertyValueString</a></td><td>
+Gets a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a> representation of the value of a specified property of an object.
+ (Defined by <a href="T_TupleGeo_General_ObjectExtensions">ObjectExtensions</a>.)</td></tr></table>&nbsp;
+<a href="#enumdescriptionconverter-methods">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_ComponentModel_EnumDescriptionConverter">EnumDescriptionConverter Class</a><br /><a href="N_TupleGeo_General_ComponentModel">TupleGeo.General.ComponentModel Namespace</a><br />

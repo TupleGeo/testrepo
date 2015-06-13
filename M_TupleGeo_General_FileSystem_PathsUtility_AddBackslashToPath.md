@@ -1,0 +1,31 @@
+# PathsUtility.AddBackslashToPath Method 
+ 
+
+Adds a backslash to the specified path.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_FileSystem">TupleGeo.General.FileSystem</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static string AddBackslashToPath(
+	string path
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>path</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The string representing the path.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a><br />A string representing the path with the added backslash.
+
+## Remarks
+If the path ends with a backslash the method returns the path as it is.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_FileSystem_PathsUtility">PathsUtility Class</a><br /><a href="N_TupleGeo_General_FileSystem">TupleGeo.General.FileSystem Namespace</a><br />

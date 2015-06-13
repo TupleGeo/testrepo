@@ -1,0 +1,28 @@
+# IFiltering Interface
+ 
+
+The contract for those objects need to provide <a href="http://msdn2.microsoft.com/en-us/library/ms613527" target="_blank">CollectionViewSource</a> filtering capabilities.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Windows_Data">TupleGeo.General.Windows.Data</a><br />**Assembly:**&nbsp;TupleGeo.General.Windows.Presentation (in TupleGeo.General.Windows.Presentation.dll) Version: 1.0.1.35963 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public interface IFiltering
+```
+
+The IFiltering type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_TupleGeo_General_Windows_Data_IFiltering_CurrentFilter">CurrentFilter</a></td><td>
+Gets / Sets the currently selected filter.</td></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_TupleGeo_General_Windows_Data_IFiltering_Filters">Filters</a></td><td>
+The filters used for <a href="http://msdn2.microsoft.com/en-us/library/ms613527" target="_blank">CollectionViewSource</a> filtering.</td></tr></table>&nbsp;
+<a href="#ifiltering-interface">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="N_TupleGeo_General_Windows_Data">TupleGeo.General.Windows.Data Namespace</a><br />

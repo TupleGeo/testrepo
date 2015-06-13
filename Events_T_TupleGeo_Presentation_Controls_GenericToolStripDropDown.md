@@ -1,0 +1,181 @@
+# GenericToolStripDropDown Events
+ 
+
+The <a href="T_TupleGeo_Presentation_Controls_GenericToolStripDropDown">GenericToolStripDropDown</a> type exposes the following members.
+
+
+## Events
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223845" target="_blank">AutoSizeChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/bcb0w08a" target="_blank">AutoSize</a> property has changed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/8hxkw97w" target="_blank">BackColorChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/tstx4c33" target="_blank">BackColor</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160867" target="_blank">BackgroundImageChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/4thk01w9" target="_blank">BackgroundImage</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160868" target="_blank">BackgroundImageLayoutChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/4thk01w9" target="_blank">BackgroundImage</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160716" target="_blank">BeginDrag</a></td><td>
+Occurs when the user begins to drag the <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a> control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160869" target="_blank">BindingContextChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/fy43e2s0" target="_blank">BindingContext</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223846" target="_blank">CausesValidationChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/de28c9bh" target="_blank">CausesValidation</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223816" target="_blank">ChangeUICues</a></td><td>
+Occurs when the focus or keyboard user interface (UI) cues change.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/hkz3c8hc" target="_blank">Click</a></td><td>
+Occurs when the control is clicked.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223712" target="_blank">ClientSizeChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/k413bhbc" target="_blank">ClientSize</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/eft9xx8d" target="_blank">Closed</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> is closed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/2e8bhxx4" target="_blank">Closing</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> control is about to close.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160870" target="_blank">ContextMenuChanged</a></td><td>
+This event is not relevant to this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160871" target="_blank">ContextMenuStripChanged</a></td><td>
+This event is not relevant to this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ab66a78e" target="_blank">ControlAdded</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/w73dkd69" target="_blank">ControlRemoved</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160717" target="_blank">CursorChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/sf27z138" target="_blank">Cursor</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/adz0f023" target="_blank">Disposed</a></td><td>
+Occurs when the component is disposed by a call to the <a href="http://msdn2.microsoft.com/en-us/library/3cc9y48w" target="_blank">Dispose()</a> method.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/9wbadbce" target="_blank">Component</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160872" target="_blank">DockChanged</a></td><td>
+This event is not relevant to this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/f6fwzesc" target="_blank">DoubleClick</a></td><td>
+Occurs when the control is double-clicked.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/yca236x4" target="_blank">DragDrop</a></td><td>
+Occurs when a drag-and-drop operation is completed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dh27e0we" target="_blank">DragEnter</a></td><td>
+Occurs when an object is dragged into the control's bounds.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/t8sk2yhy" target="_blank">DragLeave</a></td><td>
+Occurs when an object is dragged out of the control's bounds.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/yzhz0h1a" target="_blank">DragOver</a></td><td>
+Occurs when an object is dragged over the control's bounds.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/6kcyz2yw" target="_blank">EnabledChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/k2wzhedy" target="_blank">Enabled</a> property value has changed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160718" target="_blank">EndDrag</a></td><td>
+Occurs when the user stops dragging the <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a> control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223808" target="_blank">Enter</a></td><td>
+Occurs when the focus enters the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223813" target="_blank">FontChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/ms224875" target="_blank">Font</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223798" target="_blank">ForeColorChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/fbadytaz" target="_blank">ForeColor</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223799" target="_blank">GiveFeedback</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/t31a9w7d" target="_blank">GotFocus</a></td><td>
+Occurs when the control receives focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/63w20k8w" target="_blank">HandleCreated</a></td><td>
+Occurs when a handle is created for the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/06aszex9" target="_blank">HandleDestroyed</a></td><td>
+Occurs when the control's handle is in the process of being destroyed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223825" target="_blank">HelpRequested</a></td><td>
+Occurs when the user requests help for a control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223814" target="_blank">ImeModeChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/ms223814" target="_blank">ImeModeChanged</a> property has changed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/z4yzf1s6" target="_blank">Invalidated</a></td><td>
+Occurs when a control's display requires redrawing.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/d8982ace" target="_blank">ItemAdded</a></td><td>
+Occurs when a new <a href="http://msdn2.microsoft.com/en-us/library/9yb7d644" target="_blank">ToolStripItem</a> is added to the <a href="http://msdn2.microsoft.com/en-us/library/xchk67be" target="_blank">ToolStripItemCollection</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7559tdt0" target="_blank">ItemClicked</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/9yb7d644" target="_blank">ToolStripItem</a> is clicked.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/w107y738" target="_blank">ItemRemoved</a></td><td>
+Occurs when a <a href="http://msdn2.microsoft.com/en-us/library/9yb7d644" target="_blank">ToolStripItem</a> is removed from the <a href="http://msdn2.microsoft.com/en-us/library/xchk67be" target="_blank">ToolStripItemCollection</a>.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223810" target="_blank">KeyDown</a></td><td>
+Occurs when a key is pressed and held down while the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> has focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223811" target="_blank">KeyPress</a></td><td>
+Occurs when a key is pressed while the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> has focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223818" target="_blank">KeyUp</a></td><td>
+Occurs when a key is released while the control has focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/c7tzb479" target="_blank">Layout</a></td><td>
+Occurs when a control should reposition its child controls.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/kyaby223" target="_blank">LayoutCompleted</a></td><td>
+Occurs when the layout of the <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a> is complete.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/1x247a18" target="_blank">LayoutStyleChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/hkkk3y23" target="_blank">LayoutStyle</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223802" target="_blank">Leave</a></td><td>
+Occurs when the input focus leaves the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/e0xc63zd" target="_blank">LocationChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/zsatyh7y" target="_blank">Location</a> property value has changed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/98wbb910" target="_blank">LostFocus</a></td><td>
+Occurs when the control loses focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/dt6c08ba" target="_blank">MarginChanged</a></td><td>
+Occurs when the control's margin changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/adt3t40x" target="_blank">MouseCaptureChanged</a></td><td>
+Occurs when the control loses mouse capture.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/x7abey48" target="_blank">MouseClick</a></td><td>
+Occurs when the control is clicked by the mouse.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/k5htkkkk" target="_blank">MouseDoubleClick</a></td><td>
+Occurs when the control is double clicked by the mouse.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/wa1c9hdd" target="_blank">MouseDown</a></td><td>
+Occurs when the mouse pointer is over the control and a mouse button is pressed.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/y9x9ska3" target="_blank">MouseEnter</a></td><td>
+Occurs when the mouse pointer enters the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/9c2dcd5w" target="_blank">MouseHover</a></td><td>
+Occurs when the mouse pointer rests on the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4xe8zhc9" target="_blank">MouseLeave</a></td><td>
+Occurs when the mouse pointer leaves the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/4s8wcb7h" target="_blank">MouseMove</a></td><td>
+Occurs when the mouse pointer is moved over the control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/11hh0yha" target="_blank">MouseUp</a></td><td>
+Occurs when the mouse pointer is over the control and a mouse button is released.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/a3ea29db" target="_blank">MouseWheel</a></td><td>
+Occurs when the mouse wheel moves while the control has focus.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/se7294f8" target="_blank">Move</a></td><td>
+Occurs when the control is moved.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/817k507c" target="_blank">Opened</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> is opened.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160873" target="_blank">Opening</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a> control is opening.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/kbee3kfh" target="_blank">PaddingChanged</a></td><td>
+Occurs when the control's padding changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/02745s21" target="_blank">Paint</a></td><td>
+Occurs when the control is redrawn.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/7f8x6114" target="_blank">PaintGrip</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a> move handle is painted.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/xx552860" target="_blank">ParentChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/dch043h6" target="_blank">Parent</a> property value changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223717" target="_blank">PreviewKeyDown</a></td><td>
+Occurs before the <a href="http://msdn2.microsoft.com/en-us/library/wxasd33h" target="_blank">KeyDown</a> event when a key is pressed while focus is on this control.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/x227bhyd" target="_blank">QueryAccessibilityHelp</a></td><td>
+Occurs when <a href="http://msdn2.microsoft.com/en-us/library/7826d8fd" target="_blank">AccessibleObject</a> is providing help to accessibility applications.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/2d3k5fhc" target="_blank">QueryContinueDrag</a></td><td>
+Occurs during a drag-and-drop operation and enables the drag source to determine whether the drag-and-drop operation should be canceled.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223821" target="_blank">RegionChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/ms224881" target="_blank">Region</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/0be3dtf2" target="_blank">RendererChanged</a></td><td>
+Occurs when the value of the <a href="http://msdn2.microsoft.com/en-us/library/2ays68t5" target="_blank">Renderer</a> property changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/63k0z90h" target="_blank">ToolStrip</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/3y85ytf2" target="_blank">Resize</a></td><td>
+Occurs when the control is resized.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/sx45xybc" target="_blank">RightToLeftChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/w9e5s1ba" target="_blank">RightToLeft</a> property value changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223820" target="_blank">Scroll</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/3cwtaczx" target="_blank">SizeChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/1tfy81yt" target="_blank">Size</a> property value changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223803" target="_blank">StyleChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/f0t7t2da" target="_blank">ToolStripLayoutStyle</a> style changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ba9007ss" target="_blank">SystemColorsChanged</a></td><td>
+Occurs when the system colors change.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms160874" target="_blank">TabIndexChanged</a></td><td>
+This event is not relevant to this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223822" target="_blank">TabStopChanged</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223815" target="_blank">TextChanged</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223812" target="_blank">Validated</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/ms223809" target="_blank">Validating</a></td><td>
+This event is not relevant for this class.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/fs7t9bea" target="_blank">ToolStripDropDown</a>.)</td></tr><tr><td>![Public event](media/pubevent.gif "Public event")</td><td><a href="http://msdn2.microsoft.com/en-us/library/fz09hcw9" target="_blank">VisibleChanged</a></td><td>
+Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/3k8kd8ah" target="_blank">Visible</a> property value changes.
+ (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/36cd312w" target="_blank">Control</a>.)</td></tr></table>&nbsp;
+<a href="#generictoolstripdropdown-events">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Presentation_Controls_GenericToolStripDropDown">GenericToolStripDropDown Class</a><br /><a href="N_TupleGeo_Presentation_Controls">TupleGeo.Presentation.Controls Namespace</a><br />

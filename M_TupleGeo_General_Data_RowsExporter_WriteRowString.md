@@ -1,0 +1,28 @@
+# RowsExporter.WriteRowString Method 
+ 
+
+Writes a string representing the contents of a <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> row in to the <a href="http://msdn2.microsoft.com/en-us/library/y9sxk6fy" target="_blank">StringBuilder</a>.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Data">TupleGeo.General.Data</a><br />**Assembly:**&nbsp;TupleGeo.General.Windows.Forms (in TupleGeo.General.Windows.Forms.dll) Version: 1.1.5.35959 (1.1.5)
+
+## Syntax
+
+**C#**<br />
+``` C#
+private static void WriteRowString(
+	DataGridView dataGridView,
+	string separator,
+	StreamWriter streamWriter,
+	DataGridViewRow row
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>dataGridView</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">System.Windows.Forms.DataGridView</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> containing the row.</dd><dt>separator</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The separator <a href="http://msdn2.microsoft.com/en-us/library/k493b04s" target="_blank">Char</a> used to separate values in the string representing the row.</dd><dt>streamWriter</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/3ssew6tk" target="_blank">System.IO.StreamWriter</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/3ssew6tk" target="_blank">StreamWriter</a> used to write the row string.</dd><dt>row</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/c1120ta9" target="_blank">System.Windows.Forms.DataGridViewRow</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/c1120ta9" target="_blank">DataGridViewRow</a> used to extract the field values from.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Data_RowsExporter">RowsExporter Class</a><br /><a href="N_TupleGeo_General_Data">TupleGeo.General.Data Namespace</a><br />

@@ -1,0 +1,32 @@
+# DescriptionAttribute.GetEnumeratedValueDescriptionAttribute Method (Object, String)
+ 
+
+Gets the <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description. associated with the specified culture.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static string GetEnumeratedValueDescriptionAttribute(
+	Object enumValue,
+	string culture
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>enumValue</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">System.Object</a><br />The Enumerated value used to retrieve its <a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute</a> description.</dd><dt>culture</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The culture of the description.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a><br />A string with the description.
+
+## Remarks
+If no description will be found for the specified culture, the neutral culture description will be returned. If no neutral culture description has been found, a zero length string will be returned instead.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Attributes_DescriptionAttribute">DescriptionAttribute Class</a><br /><a href="Overload_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute">GetEnumeratedValueDescriptionAttribute Overload</a><br /><a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes Namespace</a><br />

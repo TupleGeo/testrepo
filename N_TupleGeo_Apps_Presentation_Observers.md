@@ -1,0 +1,10 @@
+# TupleGeo.Apps.Presentation.Observers Namespace
+ 
+
+-
+
+
+## Classes
+&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1">PropertyObserver(TPropertySource)</a></td><td>
+Monitors the PropertyChanged event of an object that implements <a href="http://msdn2.microsoft.com/en-us/library/ms133020" target="_blank">INotifyPropertyChanged</a>, and executes callback methods (i.e. handlers) registered for properties of that object.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1">WeakEventManagerBase(TEventArgs)</a></td><td>
+The base class for a WeakEventManager.</td></tr></table>&nbsp;

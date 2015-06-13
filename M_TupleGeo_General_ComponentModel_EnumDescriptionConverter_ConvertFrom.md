@@ -1,0 +1,30 @@
+# EnumDescriptionConverter.ConvertFrom Method (ITypeDescriptorContext, CultureInfo, Object)
+ 
+
+Converts a string containing the description of an enumerated value in to the enumerated value.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_ComponentModel">TupleGeo.General.ComponentModel</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public override Object ConvertFrom(
+	ITypeDescriptorContext context,
+	CultureInfo culture,
+	Object value
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>context</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/8d4c9xy5" target="_blank">System.ComponentModel.ITypeDescriptorContext</a><br />An <a href="http://msdn2.microsoft.com/en-us/library/8d4c9xy5" target="_blank">ITypeDescriptorContext</a>.</dd><dt>culture</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/kx54z3k7" target="_blank">System.Globalization.CultureInfo</a><br />A <a href="http://msdn2.microsoft.com/en-us/library/kx54z3k7" target="_blank">CultureInfo</a>.</dd><dt>value</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">System.Object</a><br />The description of an enumerated value. (should be a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>).</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a><br />An <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a> containing the enumerated value.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_ComponentModel_EnumDescriptionConverter">EnumDescriptionConverter Class</a><br /><a href="Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom">ConvertFrom Overload</a><br /><a href="N_TupleGeo_General_ComponentModel">TupleGeo.General.ComponentModel Namespace</a><br />

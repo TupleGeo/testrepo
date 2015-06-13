@@ -1,0 +1,32 @@
+# AssemblyExtensions.GetExportedTypes Method 
+ 
+
+Gets all exported types of the assembly implementing the specified interface.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Reflection">TupleGeo.General.Reflection</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.35959 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static IEnumerable<Type> GetExportedTypes(
+	this Assembly assembly,
+	Type interfaceType
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>assembly</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/xbe1wdx9" target="_blank">System.Reflection.Assembly</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/xbe1wdx9" target="_blank">Assembly</a>.</dd><dt>interfaceType</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">System.Type</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of interface whose implementors will be returned.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/9eekhta0" target="_blank">IEnumerable</a>(<a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a>)<br />An IEmumerable of <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> with <a href="http://msdn2.microsoft.com/en-us/library/42892f65" target="_blank">types</a> implementing the specified interface.
+
+#### Usage Note
+In Visual Basic and C#, you can call this method as an instance method on any object of type <a href="http://msdn2.microsoft.com/en-us/library/xbe1wdx9" target="_blank">Assembly</a>. When you use instance method syntax to call this method, omit the first parameter. For more information, see <a href="http://msdn.microsoft.com/en-us/library/bb384936.aspx">Extension Methods (Visual Basic)</a> or <a href="http://msdn.microsoft.com/en-us/library/bb383977.aspx">Extension Methods (C# Programming Guide)</a>.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Reflection_AssemblyExtensions">AssemblyExtensions Class</a><br /><a href="N_TupleGeo_General_Reflection">TupleGeo.General.Reflection Namespace</a><br />

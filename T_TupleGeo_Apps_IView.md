@@ -1,0 +1,27 @@
+# IView Interface
+ 
+
+The interface implemented by all view classes.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps">TupleGeo.Apps</a><br />**Assembly:**&nbsp;TupleGeo.Apps (in TupleGeo.Apps.dll) Version: 1.0.1.35959 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public interface IView
+```
+
+The IView type exposes the following members.
+
+
+## Properties
+&nbsp;<table><tr><th></th><th>Name</th><th>Description</th></tr><tr><td>![Public property](media/pubproperty.gif "Public property")</td><td><a href="P_TupleGeo_Apps_IView_ViewName">ViewName</a></td><td>
+Gets the name of the view.</td></tr></table>&nbsp;
+<a href="#iview-interface">Back to Top</a>
+
+## See Also
+
+
+#### Reference
+<a href="N_TupleGeo_Apps">TupleGeo.Apps Namespace</a><br />

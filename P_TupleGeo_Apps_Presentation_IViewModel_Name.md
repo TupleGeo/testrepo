@@ -1,0 +1,23 @@
+# IViewModel.Name Property 
+ 
+
+Gets the name of the view model.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.35961 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+string Name { get; }
+```
+
+
+#### Property Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a><br />\[Missing <value> documentation for "P:TupleGeo.Apps.Presentation.IViewModel.Name"\]
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_IViewModel">IViewModel Interface</a><br /><a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation Namespace</a><br />

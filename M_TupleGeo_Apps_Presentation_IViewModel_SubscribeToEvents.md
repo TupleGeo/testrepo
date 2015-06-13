@@ -1,0 +1,25 @@
+# IViewModel.SubscribeToEvents Method 
+ 
+
+Binds this view model to events raised by its corresponding view.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.35961 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+void SubscribeToEvents(
+	Dictionary<string, Object> triggeringObjectsDictionary
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>triggeringObjectsDictionary</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/xfhwa508" target="_blank">System.Collections.Generic.Dictionary</a>(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a>, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>)<br />The object whose events will be observed.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_IViewModel">IViewModel Interface</a><br /><a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation Namespace</a><br />

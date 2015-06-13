@@ -1,0 +1,28 @@
+# GreekToLatinTranscribe.ReadAhead Method 
+ 
+
+Reads ahead.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Text_Greek">TupleGeo.General.Text.Greek</a><br />**Assembly:**&nbsp;TupleGeo.General.Text.Greek (in TupleGeo.General.Text.Greek.dll) Version: 1.0.1.35959 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+private static bool ReadAhead(
+	char current
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>current</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/k493b04s" target="_blank">System.Char</a><br />The current <a href="http://msdn2.microsoft.com/en-us/library/k493b04s" target="_blank">Char</a>.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/a28wyd50" target="_blank">Boolean</a><br />Returns a <a href="http://msdn2.microsoft.com/en-us/library/a28wyd50" target="_blank">Boolean</a>.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe">GreekToLatinTranscribe Class</a><br /><a href="N_TupleGeo_General_Text_Greek">TupleGeo.General.Text.Greek Namespace</a><br />

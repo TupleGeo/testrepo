@@ -1,0 +1,899 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title=" namespace" Url="html/N_.htm" />
+  <HelpKINode Title="&lt;Module&gt; class">
+    <HelpKINode Title="&lt;Module&gt; Class" Url="html/T__Module_.htm" />
+    <HelpKINode Title="about &lt;Module&gt; class" Url="html/T__Module_.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Acorn enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="ActionCommand class">
+    <HelpKINode Title="ActionCommand Class" Url="html/T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm" />
+    <HelpKINode Title="about ActionCommand class" Url="html/T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ActionCommand.ActionCommand constructor" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand__ctor.htm" />
+  <HelpKINode Title="ActionCommand.AddListener(Of TEntity) method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddListener__1.htm" />
+  <HelpKINode Title="ActionCommand.AddListener&lt;TEntity&gt; method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddListener__1.htm" />
+  <HelpKINode Title="ActionCommand.AddObservableCollectionListener(Of TEntity) method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddObservableCollectionListener__1.htm" />
+  <HelpKINode Title="ActionCommand.AddObservableCollectionListener&lt;TEntity&gt; method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddObservableCollectionListener__1.htm" />
+  <HelpKINode Title="ActionCommand.CanExecute method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecute.htm" />
+  <HelpKINode Title="ActionCommand.CanExecuteChanged event" Url="html/E_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecuteChanged.htm" />
+  <HelpKINode Title="ActionCommand.Execute method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_Execute.htm" />
+  <HelpKINode Title="ActionCommand.ObservableCollection_CollectionChanged method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_ObservableCollection_CollectionChanged.htm" />
+  <HelpKINode Title="ActionCommand.OnCanExecuteChanged method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_OnCanExecuteChanged.htm" />
+  <HelpKINode Title="ActionCommand.RequeryCanExecute method" Url="html/Overload_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute.htm" />
+  <HelpKINode Title="AddBackslashToPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddBackslashToPath.htm" />
+  <HelpKINode Title="AddListener(Of TEntity) method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddListener__1.htm" />
+  <HelpKINode Title="AddListener&lt;TEntity&gt; method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddListener__1.htm" />
+  <HelpKINode Title="AddObservableCollectionListener(Of TEntity) method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddObservableCollectionListener__1.htm" />
+  <HelpKINode Title="AddObservableCollectionListener&lt;TEntity&gt; method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddObservableCollectionListener__1.htm" />
+  <HelpKINode Title="AddSlashToPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddSlashToPath.htm" />
+  <HelpKINode Title="AI enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Ait enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Ani enumeration member" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="Art enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="AssemblyExtensions class">
+    <HelpKINode Title="AssemblyExtensions Class" Url="html/T_TupleGeo_General_Reflection_AssemblyExtensions.htm" />
+    <HelpKINode Title="about AssemblyExtensions class" Url="html/T_TupleGeo_General_Reflection_AssemblyExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Reflection_AssemblyExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyExtensions.CreateInstance method" Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_CreateInstance.htm" />
+  <HelpKINode Title="AssemblyExtensions.GetExportedTypes method" Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_GetExportedTypes.htm" />
+  <HelpKINode Title="AttributeHelper class">
+    <HelpKINode Title="AttributeHelper Class" Url="html/T_TupleGeo_General_Attributes_AttributeHelper.htm" />
+    <HelpKINode Title="about AttributeHelper class" Url="html/T_TupleGeo_General_Attributes_AttributeHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Attributes_AttributeHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AttributeHelper.GetFirstMatchingAttribute method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute.htm" />
+  <HelpKINode Title="AttributeHelper.GetFirstMatchingCustomAttribute method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute.htm" />
+  <HelpKINode Title="AttributeHelper.GetFirstMatchingEnumeratedValueAttribute method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingEnumeratedValueAttribute.htm" />
+  <HelpKINode Title="AttributeHelper.GetMatchingAttributes method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes.htm" />
+  <HelpKINode Title="AttributeHelper.GetMatchingCustomAttributes method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingCustomAttributes.htm" />
+  <HelpKINode Title="AttributeHelper.GetMatchingEnumeratedValueAttributes method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingEnumeratedValueAttributes.htm" />
+  <HelpKINode Title="Awg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="BaseViewModel(Of T) class">
+    <HelpKINode Title="BaseViewModel(T) Class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="about BaseViewModel(Of T) class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_BaseViewModel_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseViewModel(Of T).BaseViewModel constructor" Url="html/M_TupleGeo_Apps_Presentation_BaseViewModel_1__ctor.htm" />
+  <HelpKINode Title="BaseViewModel(Of T).Model property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Model.htm" />
+  <HelpKINode Title="BaseViewModel(Of T).Title property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Title.htm" />
+  <HelpKINode Title="BaseViewModel&lt;T&gt; class">
+    <HelpKINode Title="BaseViewModel(T) Class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="about BaseViewModel&lt;T&gt; class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_BaseViewModel_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BaseViewModel&lt;T&gt;.BaseViewModel constructor" Url="html/M_TupleGeo_Apps_Presentation_BaseViewModel_1__ctor.htm" />
+  <HelpKINode Title="BaseViewModel&lt;T&gt;.Model property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Model.htm" />
+  <HelpKINode Title="BaseViewModel&lt;T&gt;.Title property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Title.htm" />
+  <HelpKINode Title="Bmp enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="ButtonClick event" Url="html/E_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_ButtonClick.htm" />
+  <HelpKINode Title="Cab enumeration member" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="Callback property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Callback.htm" />
+  <HelpKINode Title="CancelButton property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_CancelButton.htm" />
+  <HelpKINode Title="CanExecute method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecute.htm" />
+  <HelpKINode Title="CanExecuteChanged event" Url="html/E_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecuteChanged.htm" />
+  <HelpKINode Title="Cdr enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdr3 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdr4 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdr5 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdr6 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdrw enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cdt enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cgm enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cit enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Cmx enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="CodePage enumeration" Url="html/T_TupleGeo_General_Text_CodePage.htm" />
+  <HelpKINode Title="CollapseBoxClickedEvent event" Url="html/E_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapseBoxClickedEvent.htm" />
+  <HelpKINode Title="CollapseBoxClickedEventHandler delegate" Url="html/T_TupleGeo_Presentation_Controls_CollapseBoxClickedEventHandler.htm" />
+  <HelpKINode Title="CollapsedHeight property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapsedHeight.htm" />
+  <HelpKINode Title="CollapsibleGroupBox class">
+    <HelpKINode Title="CollapsibleGroupBox Class" Url="html/T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+    <HelpKINode Title="about CollapsibleGroupBox class" Url="html/T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CollapsibleGroupBox.CollapseBoxClickedEvent event" Url="html/E_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapseBoxClickedEvent.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.CollapsedHeight property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapsedHeight.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.CollapsibleGroupBox constructor" Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox__ctor.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.Dispose method" Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox_Dispose.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.DrawGroupBox method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawGroupBox.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.DrawToggleButton method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawToggleButton.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.FullHeight property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_FullHeight.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.HandleResize method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_HandleResize.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.InitializeComponent method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_InitializeComponent.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.IsCollapsed property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_IsCollapsed.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.OnMouseUp method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnMouseUp.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.OnPaint method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnPaint.htm" />
+  <HelpKINode Title="CollapsibleGroupBox.ToggleCollapsed method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_ToggleCollapsed.htm" />
+  <HelpKINode Title="ConnectionDetails class">
+    <HelpKINode Title="ConnectionDetails Class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm" />
+    <HelpKINode Title="about ConnectionDetails class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConnectionDetails.ConnectionDetails constructor" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor.htm" />
+  <HelpKINode Title="ConnectionDetails.DataSource property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_DataSource.htm" />
+  <HelpKINode Title="ConnectionDetails.FromConnectionString method" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString.htm" />
+  <HelpKINode Title="ConnectionDetails.InitialCatalog property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_InitialCatalog.htm" />
+  <HelpKINode Title="ConnectionDetails.IsPersistSecurityInfo property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_IsPersistSecurityInfo.htm" />
+  <HelpKINode Title="ConnectionDetails.SetBase64InitializationVector method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64InitializationVector.htm" />
+  <HelpKINode Title="ConnectionDetails.SetBase64Key method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64Key.htm" />
+  <HelpKINode Title="ConnectionDetails.SetDataSource method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetDataSource.htm" />
+  <HelpKINode Title="ConnectionDetails.SetInitialCatalog method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetInitialCatalog.htm" />
+  <HelpKINode Title="ConnectionDetails.SetPassword method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPassword.htm" />
+  <HelpKINode Title="ConnectionDetails.SetPersistSecurityInfo method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPersistSecurityInfo.htm" />
+  <HelpKINode Title="ConnectionDetails.SetUserID method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetUserID.htm" />
+  <HelpKINode Title="ConnectionDetails.SqlServerUserCollection property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_SqlServerUserCollection.htm" />
+  <HelpKINode Title="ConnectionDetails.ToConnectionString method" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString.htm" />
+  <HelpKINode Title="ConnectionDetails.UpdateUserList method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_UpdateUserList.htm" />
+  <HelpKINode Title="ConnectionDetailsException class">
+    <HelpKINode Title="ConnectionDetailsException Class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+    <HelpKINode Title="about ConnectionDetailsException class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConnectionDetailsException.ConnectionDetailsException constructor" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor.htm" />
+  <HelpKINode Title="Contains enumeration member" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="Convert method">
+    <HelpKINode Title="EnumToResourceDescriptionConverter.Convert Method " Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_Convert.htm" />
+    <HelpKINode Title="GreekToLatinTranscribe.Convert Method " Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvertBack method" Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_ConvertBack.htm" />
+  <HelpKINode Title="ConvertFrom method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom.htm" />
+  <HelpKINode Title="ConvertTo method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertTo.htm" />
+  <HelpKINode Title="CreateInstance method" Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_CreateInstance.htm" />
+  <HelpKINode Title="CryptographicString class">
+    <HelpKINode Title="CryptographicString Class" Url="html/T_TupleGeo_General_Security_CryptographicString.htm" />
+    <HelpKINode Title="about CryptographicString class" Url="html/T_TupleGeo_General_Security_CryptographicString.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Security_CryptographicString__cctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Security_CryptographicString__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Security_CryptographicString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CryptographicString.CryptographicString constructor">
+    <HelpKINode Title="CryptographicString Constructor " Url="html/M_TupleGeo_General_Security_CryptographicString__cctor.htm" />
+    <HelpKINode Title="CryptographicString Constructor " Url="html/M_TupleGeo_General_Security_CryptographicString__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CryptographicString.Decrypt method" Url="html/M_TupleGeo_General_Security_CryptographicString_Decrypt.htm" />
+  <HelpKINode Title="CryptographicString.Encrypt method" Url="html/M_TupleGeo_General_Security_CryptographicString_Encrypt.htm" />
+  <HelpKINode Title="CryptographicString.GenerateRijndaelSecretInitilizationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretInitilizationVector.htm" />
+  <HelpKINode Title="CryptographicString.GenerateRijndaelSecretKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretKey.htm" />
+  <HelpKINode Title="CryptographicString.GetInitializationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_GetInitializationVector.htm" />
+  <HelpKINode Title="CryptographicString.GetKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_GetKey.htm" />
+  <HelpKINode Title="CryptographicString.SetInitializationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_SetInitializationVector.htm" />
+  <HelpKINode Title="CryptographicString.SetKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_SetKey.htm" />
+  <HelpKINode Title="CryptographicStringException class">
+    <HelpKINode Title="CryptographicStringException Class" Url="html/T_TupleGeo_General_Security_CryptographicStringException.htm" />
+    <HelpKINode Title="about CryptographicStringException class" Url="html/T_TupleGeo_General_Security_CryptographicStringException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_Security_CryptographicStringException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CryptographicStringException.CryptographicStringException constructor" Url="html/Overload_TupleGeo_General_Security_CryptographicStringException__ctor.htm" />
+  <HelpKINode Title="Csh enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Csl enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Csv enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="Ctn enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Culture property" Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Culture.htm" />
+  <HelpKINode Title="Cur enumeration member" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="CurrentFilter property" Url="html/P_TupleGeo_General_Windows_Data_IFiltering_CurrentFilter.htm" />
+  <HelpKINode Title="DataBind method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_DataBind.htm" />
+  <HelpKINode Title="DataSource property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_DataSource.htm" />
+  <HelpKINode Title="Decrypt method" Url="html/M_TupleGeo_General_Security_CryptographicString_Decrypt.htm" />
+  <HelpKINode Title="DeleteObjectToolStripButton_Click method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_DeleteObjectToolStripButton_Click.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="DescriptionAttribute.Description Property " Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Description.htm" />
+    <HelpKINode Title="EnumNameDescriptionPair.Description Property " Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Description.htm" />
+    <HelpKINode Title="Filter.Description Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Description.htm" />
+    <HelpKINode Title="ResourceDescriptionAttribute.Description Property " Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_Description.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DescriptionAttribute class">
+    <HelpKINode Title="DescriptionAttribute Class" Url="html/T_TupleGeo_General_Attributes_DescriptionAttribute.htm" />
+    <HelpKINode Title="about DescriptionAttribute class" Url="html/T_TupleGeo_General_Attributes_DescriptionAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Attributes_DescriptionAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Attributes_DescriptionAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DescriptionAttribute.Culture property" Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Culture.htm" />
+  <HelpKINode Title="DescriptionAttribute.Description property" Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Description.htm" />
+  <HelpKINode Title="DescriptionAttribute.DescriptionAttribute constructor" Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute__ctor.htm" />
+  <HelpKINode Title="DescriptionAttribute.GetEnumeratedValueDescriptionAttribute method" Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute.htm" />
+  <HelpKINode Title="Deserialize method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Deserialize.htm" />
+  <HelpKINode Title="Dgn enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="CollapsibleGroupBox.Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox_Dispose.htm" />
+    <HelpKINode Title="EnumDescriptionEditor.Dispose Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_Dispose.htm" />
+    <HelpKINode Title="EnumDescriptionEditorControl.Dispose Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_Dispose.htm" />
+    <HelpKINode Title="GeneralObjectEditor.Dispose Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_Dispose.htm" />
+    <HelpKINode Title="GeneralObjectEditorControl.Dispose Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_Dispose.htm" />
+    <HelpKINode Title="GenericToolStripDropDown.Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_GenericToolStripDropDown_Dispose.htm" />
+    <HelpKINode Title="LoginControl.Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_LoginControl_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dlg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Dll enumeration member" Url="html/T_TupleGeo_General_FileTypes_ExecutableFileType.htm" />
+  <HelpKINode Title="DO enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Doc enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="DrawGroupBox method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawGroupBox.htm" />
+  <HelpKINode Title="DrawToggleButton method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawToggleButton.htm" />
+  <HelpKINode Title="Drw enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Dwg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Dxb enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Dxf enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="E2d enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="EditValue method">
+    <HelpKINode Title="EnumDescriptionEditor.EditValue Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_EditValue.htm" />
+    <HelpKINode Title="GeneralObjectEditor.EditValue Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_EditValue.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Egt enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Emb enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Emf enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Encrypt method" Url="html/M_TupleGeo_General_Security_CryptographicString_Encrypt.htm" />
+  <HelpKINode Title="EndsWith enumeration member" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="EnumDescriptionControl_Load method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionControl_Load.htm" />
+  <HelpKINode Title="EnumDescriptionConverter class">
+    <HelpKINode Title="EnumDescriptionConverter Class" Url="html/T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+    <HelpKINode Title="about EnumDescriptionConverter class" Url="html/T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumDescriptionConverter.ConvertFrom method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom.htm" />
+  <HelpKINode Title="EnumDescriptionConverter.ConvertTo method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertTo.htm" />
+  <HelpKINode Title="EnumDescriptionConverter.EnumDescriptionConverter constructor" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter__ctor.htm" />
+  <HelpKINode Title="EnumDescriptionConverter.GetEnumDescription method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription.htm" />
+  <HelpKINode Title="EnumDescriptionConverter.GetEnumDescriptions method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions.htm" />
+  <HelpKINode Title="EnumDescriptionConverter.GetEnumValue method" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumValue.htm" />
+  <HelpKINode Title="EnumDescriptionEditor class">
+    <HelpKINode Title="EnumDescriptionEditor Class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm" />
+    <HelpKINode Title="about EnumDescriptionEditor class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumDescriptionEditor.Dispose method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_Dispose.htm" />
+  <HelpKINode Title="EnumDescriptionEditor.EditValue method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_EditValue.htm" />
+  <HelpKINode Title="EnumDescriptionEditor.EnumDescriptionEditor constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__ctor.htm" />
+  <HelpKINode Title="EnumDescriptionEditor.GetEditStyle method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetEditStyle.htm" />
+  <HelpKINode Title="EnumDescriptionEditor.GetPaintValueSupported method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetPaintValueSupported.htm" />
+  <HelpKINode Title="EnumDescriptionEditor.IsDropDownResizable property" Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_IsDropDownResizable.htm" />
+  <HelpKINode Title="EnumDescriptionEditor._enumDescriptionControl_KeyDown method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_KeyDown.htm" />
+  <HelpKINode Title="EnumDescriptionEditor._enumDescriptionControl_MouseClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_MouseClick.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl class">
+    <HelpKINode Title="EnumDescriptionEditorControl Class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+    <HelpKINode Title="about EnumDescriptionEditorControl class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumDescriptionEditorControl.DataBind method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_DataBind.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.Dispose method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_Dispose.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.EnumDescriptionControl_Load method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionControl_Load.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.EnumDescriptionEditorControl constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl__ctor.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.EnumDescriptionsCollection property" Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsCollection.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.EnumDescriptionsListBox_MouseClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_MouseClick.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.EnumDescriptionsListBox_SelectedValueChanged method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_SelectedValueChanged.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.InitializeComponent method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_InitializeComponent.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.SelectedEnumValueName property" Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SelectedEnumValueName.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.SetSelectedEnumValueName method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SetSelectedEnumValueName.htm" />
+  <HelpKINode Title="EnumDescriptionEditorControl.SortEnumDescriptionsCollection method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SortEnumDescriptionsCollection.htm" />
+  <HelpKINode Title="EnumDescriptionsCollection property" Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsCollection.htm" />
+  <HelpKINode Title="EnumDescriptionsListBox_MouseClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_MouseClick.htm" />
+  <HelpKINode Title="EnumDescriptionsListBox_SelectedValueChanged method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_SelectedValueChanged.htm" />
+  <HelpKINode Title="EnumNameDescriptionPair class">
+    <HelpKINode Title="EnumNameDescriptionPair Class" Url="html/T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+    <HelpKINode Title="about EnumNameDescriptionPair class" Url="html/T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_EnumNameDescriptionPair__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumNameDescriptionPair.Description property" Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Description.htm" />
+  <HelpKINode Title="EnumNameDescriptionPair.EnumNameDescriptionPair constructor" Url="html/M_TupleGeo_General_ComponentModel_EnumNameDescriptionPair__ctor.htm" />
+  <HelpKINode Title="EnumNameDescriptionPair.Name property" Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Name.htm" />
+  <HelpKINode Title="EnumToResourceDescriptionConverter class">
+    <HelpKINode Title="EnumToResourceDescriptionConverter Class" Url="html/T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm" />
+    <HelpKINode Title="about EnumToResourceDescriptionConverter class" Url="html/T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumToResourceDescriptionConverter.Convert method" Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_Convert.htm" />
+  <HelpKINode Title="EnumToResourceDescriptionConverter.ConvertBack method" Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_ConvertBack.htm" />
+  <HelpKINode Title="EnumToResourceDescriptionConverter.EnumToResourceDescriptionConverter constructor" Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter__ctor.htm" />
+  <HelpKINode Title="Eps enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="EsriFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+  <HelpKINode Title="Exact enumeration member" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="Exe enumeration member" Url="html/T_TupleGeo_General_FileTypes_ExecutableFileType.htm" />
+  <HelpKINode Title="ExecutableFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_ExecutableFileType.htm" />
+  <HelpKINode Title="Execute method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_Execute.htm" />
+  <HelpKINode Title="ExportHtml method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportHtml.htm" />
+  <HelpKINode Title="ExportText method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportText.htm" />
+  <HelpKINode Title="ExportXml method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportXml.htm" />
+  <HelpKINode Title="FH enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Fh10 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Fh11 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Fh8 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Fh9 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Filter class">
+    <HelpKINode Title="Filter Class" Url="html/T_TupleGeo_General_Windows_Data_Filter.htm" />
+    <HelpKINode Title="about Filter class" Url="html/T_TupleGeo_General_Windows_Data_Filter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Windows_Data_Filter__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_Windows_Data_Filter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Windows_Data_Filter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Windows_Data_Filter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Filter.Callback property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Callback.htm" />
+  <HelpKINode Title="Filter.Description property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Description.htm" />
+  <HelpKINode Title="Filter.Filter constructor" Url="html/M_TupleGeo_General_Windows_Data_Filter__ctor.htm" />
+  <HelpKINode Title="Filter.Id property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Id.htm" />
+  <HelpKINode Title="Filter.Name property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Name.htm" />
+  <HelpKINode Title="Filters property" Url="html/P_TupleGeo_General_Windows_Data_IFiltering_Filters.htm" />
+  <HelpKINode Title="FilterType enumeration" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="FromConnectionString method" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString.htm" />
+  <HelpKINode Title="Ft10 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Ft11 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Ft8 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Ft9 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="FullHeight property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_FullHeight.htm" />
+  <HelpKINode Title="Gcd enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Gem enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="GeneralException class">
+    <HelpKINode Title="GeneralException Class" Url="html/T_TupleGeo_General_GeneralException.htm" />
+    <HelpKINode Title="about GeneralException class" Url="html/T_TupleGeo_General_GeneralException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_GeneralException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_GeneralException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_GeneralException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_GeneralException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GeneralException.GeneralException constructor" Url="html/Overload_TupleGeo_General_GeneralException__ctor.htm" />
+  <HelpKINode Title="GeneralObjectEditor class">
+    <HelpKINode Title="GeneralObjectEditor Class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm" />
+    <HelpKINode Title="about GeneralObjectEditor class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GeneralObjectEditor.Dispose method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_Dispose.htm" />
+  <HelpKINode Title="GeneralObjectEditor.EditValue method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_EditValue.htm" />
+  <HelpKINode Title="GeneralObjectEditor.GeneralObjectEditor constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__ctor.htm" />
+  <HelpKINode Title="GeneralObjectEditor.GetEditStyle method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetEditStyle.htm" />
+  <HelpKINode Title="GeneralObjectEditor.GetPaintValueSupported method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetPaintValueSupported.htm" />
+  <HelpKINode Title="GeneralObjectEditor.IsDropDownResizable property" Url="html/P_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_IsDropDownResizable.htm" />
+  <HelpKINode Title="GeneralObjectEditor._generalObjectEditorControl_ButtonClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__generalObjectEditorControl_ButtonClick.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl class">
+    <HelpKINode Title="GeneralObjectEditorControl Class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+    <HelpKINode Title="about GeneralObjectEditorControl class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GeneralObjectEditorControl.ButtonClick event" Url="html/E_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_ButtonClick.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl.DeleteObjectToolStripButton_Click method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_DeleteObjectToolStripButton_Click.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl.Dispose method" Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_Dispose.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl.GeneralObjectEditorControl constructor" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl__ctor.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl.InitializeComponent method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_InitializeComponent.htm" />
+  <HelpKINode Title="GeneralObjectEditorControl.NewObjectToolStripButton_Click method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_NewObjectToolStripButton_Click.htm" />
+  <HelpKINode Title="GenerateRijndaelSecretInitilizationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretInitilizationVector.htm" />
+  <HelpKINode Title="GenerateRijndaelSecretKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretKey.htm" />
+  <HelpKINode Title="GenericToolStripDropDown class">
+    <HelpKINode Title="GenericToolStripDropDown Class" Url="html/T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+    <HelpKINode Title="about GenericToolStripDropDown class" Url="html/T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericToolStripDropDown.Dispose method" Url="html/Overload_TupleGeo_Presentation_Controls_GenericToolStripDropDown_Dispose.htm" />
+  <HelpKINode Title="GenericToolStripDropDown.GenericToolStripDropDown constructor" Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown__ctor.htm" />
+  <HelpKINode Title="GenericToolStripDropDown.InitializeComponent method" Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_InitializeComponent.htm" />
+  <HelpKINode Title="GenericToolStripDropDown.OnPaint method" Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_OnPaint.htm" />
+  <HelpKINode Title="GetEditStyle method">
+    <HelpKINode Title="EnumDescriptionEditor.GetEditStyle Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetEditStyle.htm" />
+    <HelpKINode Title="GeneralObjectEditor.GetEditStyle Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetEditStyle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEnumDescription method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription.htm" />
+  <HelpKINode Title="GetEnumDescriptions method" Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions.htm" />
+  <HelpKINode Title="GetEnumeratedValueDescriptionAttribute method" Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute.htm" />
+  <HelpKINode Title="GetEnumValue method" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumValue.htm" />
+  <HelpKINode Title="GetExportedTypes method" Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_GetExportedTypes.htm" />
+  <HelpKINode Title="GetFileExtension method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetFileExtension.htm" />
+  <HelpKINode Title="GetFirstMatchingAttribute method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute.htm" />
+  <HelpKINode Title="GetFirstMatchingCustomAttribute method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute.htm" />
+  <HelpKINode Title="GetFirstMatchingEnumeratedValueAttribute method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingEnumeratedValueAttribute.htm" />
+  <HelpKINode Title="GetHeaderElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetHeaderElement.htm" />
+  <HelpKINode Title="GetInitializationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_GetInitializationVector.htm" />
+  <HelpKINode Title="GetKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_GetKey.htm" />
+  <HelpKINode Title="GetMatchingAttributes method" Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes.htm" />
+  <HelpKINode Title="GetMatchingCustomAttributes method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingCustomAttributes.htm" />
+  <HelpKINode Title="GetMatchingEnumeratedValueAttributes method" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingEnumeratedValueAttributes.htm" />
+  <HelpKINode Title="GetMimeType method" Url="html/M_TupleGeo_General_Utilities_MimeTypesHelper_GetMimeType.htm" />
+  <HelpKINode Title="GetPaintValueSupported method">
+    <HelpKINode Title="EnumDescriptionEditor.GetPaintValueSupported Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetPaintValueSupported.htm" />
+    <HelpKINode Title="GeneralObjectEditor.GetPaintValueSupported Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetPaintValueSupported.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetParentPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetParentPath.htm" />
+  <HelpKINode Title="GetPropertyName(Of T) method" Url="html/M_TupleGeo_General_Linq_Expressions_Prop_GetPropertyName__1.htm" />
+  <HelpKINode Title="GetPropertyName&lt;T&gt; method" Url="html/M_TupleGeo_General_Linq_Expressions_Prop_GetPropertyName__1.htm" />
+  <HelpKINode Title="GetPropertySource method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_GetPropertySource.htm" />
+  <HelpKINode Title="GetPropertyValueString method" Url="html/M_TupleGeo_General_ObjectExtensions_GetPropertyValueString.htm" />
+  <HelpKINode Title="GetRowElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetRowElement.htm" />
+  <HelpKINode Title="GetXElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetXElement.htm" />
+  <HelpKINode Title="Gif enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Gl2 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Greek enumeration member" Url="html/T_TupleGeo_General_Text_CodePage.htm" />
+  <HelpKINode Title="GreekHelper class">
+    <HelpKINode Title="GreekHelper Class" Url="html/T_TupleGeo_General_Text_Greek_GreekHelper.htm" />
+    <HelpKINode Title="about GreekHelper class" Url="html/T_TupleGeo_General_Text_Greek_GreekHelper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Text_Greek_GreekHelper__cctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Text_Greek_GreekHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GreekHelper.GreekHelper constructor" Url="html/M_TupleGeo_General_Text_Greek_GreekHelper__cctor.htm" />
+  <HelpKINode Title="GreekHelper.ToNonPunctuatedChars method" Url="html/M_TupleGeo_General_Text_Greek_GreekHelper_ToNonPunctuatedChars.htm" />
+  <HelpKINode Title="GreekToLatinConversionMode enumeration" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe class">
+    <HelpKINode Title="GreekToLatinTranscribe Class" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm" />
+    <HelpKINode Title="about GreekToLatinTranscribe class" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe__cctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GreekToLatinTranscribe.Convert method" Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.GreekToLatinTranscribe constructor" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe__cctor.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapDouble method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapDouble.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapNextVoiced method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiced.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapNextVoiceless method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiceless.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapSingle method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapSingle.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapWordMiddle method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordMiddle.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.MapWordStart method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordStart.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.ReadAhead method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_ReadAhead.htm" />
+  <HelpKINode Title="GreekToLatinTranscribe.Replace method" Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace.htm" />
+  <HelpKINode Title="HandleResize method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_HandleResize.htm" />
+  <HelpKINode Title="Hpg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Hpgl enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Hpgl2 enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Htm enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="Html enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="Ico enumeration member" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="Id property" Url="html/P_TupleGeo_General_Windows_Data_Filter_Id.htm" />
+  <HelpKINode Title="IFiltering interface">
+    <HelpKINode Title="IFiltering Interface" Url="html/T_TupleGeo_General_Windows_Data_IFiltering.htm" />
+    <HelpKINode Title="about IFiltering interface" Url="html/T_TupleGeo_General_Windows_Data_IFiltering.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Windows_Data_IFiltering.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFiltering.CurrentFilter property" Url="html/P_TupleGeo_General_Windows_Data_IFiltering_CurrentFilter.htm" />
+  <HelpKINode Title="IFiltering.Filters property" Url="html/P_TupleGeo_General_Windows_Data_IFiltering_Filters.htm" />
+  <HelpKINode Title="Ima enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="IModel interface">
+    <HelpKINode Title="IModel Interface" Url="html/T_TupleGeo_Apps_IModel.htm" />
+    <HelpKINode Title="about IModel interface" Url="html/T_TupleGeo_Apps_IModel.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Apps_IModel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IModel.ModelName property" Url="html/P_TupleGeo_Apps_IModel_ModelName.htm" />
+  <HelpKINode Title="InitialCatalog property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_InitialCatalog.htm" />
+  <HelpKINode Title="InitializeComponent method">
+    <HelpKINode Title="CollapsibleGroupBox.InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_InitializeComponent.htm" />
+    <HelpKINode Title="EnumDescriptionEditorControl.InitializeComponent Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_InitializeComponent.htm" />
+    <HelpKINode Title="GeneralObjectEditorControl.InitializeComponent Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_InitializeComponent.htm" />
+    <HelpKINode Title="GenericToolStripDropDown.InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_InitializeComponent.htm" />
+    <HelpKINode Title="LoginControl.InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_LoginControl_InitializeComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueryableExtensions class">
+    <HelpKINode Title="IQueryableExtensions Class" Url="html/T_TupleGeo_General_Linq_IQueryableExtensions.htm" />
+    <HelpKINode Title="about IQueryableExtensions class" Url="html/T_TupleGeo_General_Linq_IQueryableExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Linq_IQueryableExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueryableExtensions.OrderBy(Of TEntity) method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderBy__1.htm" />
+  <HelpKINode Title="IQueryableExtensions.OrderBy&lt;TEntity&gt; method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderBy__1.htm" />
+  <HelpKINode Title="IQueryableExtensions.OrderByDescending(Of TEntity) method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderByDescending__1.htm" />
+  <HelpKINode Title="IQueryableExtensions.OrderByDescending&lt;TEntity&gt; method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderByDescending__1.htm" />
+  <HelpKINode Title="IsCollapsed property" Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_IsCollapsed.htm" />
+  <HelpKINode Title="IsDropDownResizable property">
+    <HelpKINode Title="EnumDescriptionEditor.IsDropDownResizable Property " Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_IsDropDownResizable.htm" />
+    <HelpKINode Title="GeneralObjectEditor.IsDropDownResizable Property " Url="html/P_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_IsDropDownResizable.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsPasswordEncrypted property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordEncrypted.htm" />
+  <HelpKINode Title="IsPasswordPersisted property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordPersisted.htm" />
+  <HelpKINode Title="IsPersistSecurityInfo property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_IsPersistSecurityInfo.htm" />
+  <HelpKINode Title="IValidation interface">
+    <HelpKINode Title="IValidation Interface" Url="html/T_TupleGeo_General_IValidation.htm" />
+    <HelpKINode Title="about IValidation interface" Url="html/T_TupleGeo_General_IValidation.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_IValidation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IValidation.Validate method" Url="html/M_TupleGeo_General_IValidation_Validate.htm" />
+  <HelpKINode Title="IView interface">
+    <HelpKINode Title="IView Interface" Url="html/T_TupleGeo_Apps_IView.htm" />
+    <HelpKINode Title="about IView interface" Url="html/T_TupleGeo_Apps_IView.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Apps_IView.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IView.ViewName property" Url="html/P_TupleGeo_Apps_IView_ViewName.htm" />
+  <HelpKINode Title="IViewModel interface">
+    <HelpKINode Title="IViewModel Interface" Url="html/T_TupleGeo_Apps_Presentation_IViewModel.htm" />
+    <HelpKINode Title="about IViewModel interface" Url="html/T_TupleGeo_Apps_Presentation_IViewModel.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_IViewModel.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Apps_Presentation_IViewModel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IViewModel.Name property" Url="html/P_TupleGeo_Apps_Presentation_IViewModel_Name.htm" />
+  <HelpKINode Title="IViewModel.SetCollectionViewSources method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SetCollectionViewSources.htm" />
+  <HelpKINode Title="IViewModel.SubscribeToEvents method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SubscribeToEvents.htm" />
+  <HelpKINode Title="IViewModel.UnsubscribeFromEvents method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_UnsubscribeFromEvents.htm" />
+  <HelpKINode Title="IWeakEventListener.ReceiveWeakEvent explicitly implemented method">
+    <HelpKINode Title="PropertyObserver(TPropertySource).IWeakEventListener.ReceiveWeakEvent Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+    <HelpKINode Title="WeakEventManagerBase(TEventArgs).IWeakEventListener.ReceiveWeakEvent Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Jpeg enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Jpg enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="LoginControl class">
+    <HelpKINode Title="LoginControl Class" Url="html/T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+    <HelpKINode Title="about LoginControl class" Url="html/T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Presentation_Controls_LoginControl__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginControl.CancelButton property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_CancelButton.htm" />
+  <HelpKINode Title="LoginControl.Dispose method" Url="html/Overload_TupleGeo_Presentation_Controls_LoginControl_Dispose.htm" />
+  <HelpKINode Title="LoginControl.InitializeComponent method" Url="html/M_TupleGeo_Presentation_Controls_LoginControl_InitializeComponent.htm" />
+  <HelpKINode Title="LoginControl.LoginControl constructor" Url="html/M_TupleGeo_Presentation_Controls_LoginControl__ctor.htm" />
+  <HelpKINode Title="LoginControl.OkButton property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_OkButton.htm" />
+  <HelpKINode Title="LoginControl.PasswordTextBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_PasswordTextBox.htm" />
+  <HelpKINode Title="LoginControl.RememberPasswordCheckBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_RememberPasswordCheckBox.htm" />
+  <HelpKINode Title="LoginControl.UserNamesComboBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_UserNamesComboBox.htm" />
+  <HelpKINode Title="LoginControl.WarningLabel property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_WarningLabel.htm" />
+  <HelpKINode Title="Lowercase enumeration member" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+  <HelpKINode Title="MapDouble method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapDouble.htm" />
+  <HelpKINode Title="MapNextVoiced method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiced.htm" />
+  <HelpKINode Title="MapNextVoiceless method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiceless.htm" />
+  <HelpKINode Title="MapSingle method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapSingle.htm" />
+  <HelpKINode Title="MapWordMiddle method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordMiddle.htm" />
+  <HelpKINode Title="MapWordStart method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordStart.htm" />
+  <HelpKINode Title="Mif enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="MimeTypesHelper class">
+    <HelpKINode Title="MimeTypesHelper Class" Url="html/T_TupleGeo_General_Utilities_MimeTypesHelper.htm" />
+    <HelpKINode Title="about MimeTypesHelper class" Url="html/T_TupleGeo_General_Utilities_MimeTypesHelper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Utilities_MimeTypesHelper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MimeTypesHelper.GetMimeType method" Url="html/M_TupleGeo_General_Utilities_MimeTypesHelper_GetMimeType.htm" />
+  <HelpKINode Title="Mixedcase enumeration member" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+  <HelpKINode Title="Model property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Model.htm" />
+  <HelpKINode Title="ModelName property" Url="html/P_TupleGeo_Apps_IModel_ModelName.htm" />
+  <HelpKINode Title="Mxd enumeration member" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+  <HelpKINode Title="Mxt enumeration member" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="EnumNameDescriptionPair.Name Property " Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Name.htm" />
+    <HelpKINode Title="Filter.Name Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Name.htm" />
+    <HelpKINode Title="IViewModel.Name Property " Url="html/P_TupleGeo_Apps_Presentation_IViewModel_Name.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NewObjectToolStripButton_Click method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_NewObjectToolStripButton_Click.htm" />
+  <HelpKINode Title="ObjectExtensions class">
+    <HelpKINode Title="ObjectExtensions Class" Url="html/T_TupleGeo_General_ObjectExtensions.htm" />
+    <HelpKINode Title="about ObjectExtensions class" Url="html/T_TupleGeo_General_ObjectExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ObjectExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectExtensions.GetPropertyValueString method" Url="html/M_TupleGeo_General_ObjectExtensions_GetPropertyValueString.htm" />
+  <HelpKINode Title="ObservableCollection_CollectionChanged method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_ObservableCollection_CollectionChanged.htm" />
+  <HelpKINode Title="ObservableObject(Of T) class">
+    <HelpKINode Title="ObservableObject(T) Class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="about ObservableObject(Of T) class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObservableObject(Of T).ObservableObject constructor" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1__ctor.htm" />
+  <HelpKINode Title="ObservableObject(Of T).OnPropertyChanged method" Url="html/Overload_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged.htm" />
+  <HelpKINode Title="ObservableObject(Of T).PropertyChanged event" Url="html/E_TupleGeo_General_ComponentModel_ObservableObject_1_PropertyChanged.htm" />
+  <HelpKINode Title="ObservableObject&lt;T&gt; class">
+    <HelpKINode Title="ObservableObject(T) Class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="about ObservableObject&lt;T&gt; class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObservableObject&lt;T&gt;.ObservableObject constructor" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1__ctor.htm" />
+  <HelpKINode Title="ObservableObject&lt;T&gt;.OnPropertyChanged method" Url="html/Overload_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged.htm" />
+  <HelpKINode Title="ObservableObject&lt;T&gt;.PropertyChanged event" Url="html/E_TupleGeo_General_ComponentModel_ObservableObject_1_PropertyChanged.htm" />
+  <HelpKINode Title="Odg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="OkButton property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_OkButton.htm" />
+  <HelpKINode Title="OnCanExecuteChanged method" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_OnCanExecuteChanged.htm" />
+  <HelpKINode Title="OnMouseUp method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnMouseUp.htm" />
+  <HelpKINode Title="OnPaint method">
+    <HelpKINode Title="CollapsibleGroupBox.OnPaint Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnPaint.htm" />
+    <HelpKINode Title="GenericToolStripDropDown.OnPaint Method " Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_OnPaint.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnPropertyChanged method" Url="html/Overload_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged.htm" />
+  <HelpKINode Title="OrderBy(Of TEntity) method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderBy__1.htm" />
+  <HelpKINode Title="OrderBy&lt;TEntity&gt; method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderBy__1.htm" />
+  <HelpKINode Title="OrderByDescending(Of TEntity) method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderByDescending__1.htm" />
+  <HelpKINode Title="OrderByDescending&lt;TEntity&gt; method" Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderByDescending__1.htm" />
+  <HelpKINode Title="Password property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_Password.htm" />
+  <HelpKINode Title="PasswordTextBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_PasswordTextBox.htm" />
+  <HelpKINode Title="PatArcInfo enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatCadterns enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatCorel enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PathsUtility class">
+    <HelpKINode Title="PathsUtility Class" Url="html/T_TupleGeo_General_FileSystem_PathsUtility.htm" />
+    <HelpKINode Title="about PathsUtility class" Url="html/T_TupleGeo_General_FileSystem_PathsUtility.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_FileSystem_PathsUtility.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PathsUtility.AddBackslashToPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddBackslashToPath.htm" />
+  <HelpKINode Title="PathsUtility.AddSlashToPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddSlashToPath.htm" />
+  <HelpKINode Title="PathsUtility.GetFileExtension method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetFileExtension.htm" />
+  <HelpKINode Title="PathsUtility.GetParentPath method" Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetParentPath.htm" />
+  <HelpKINode Title="PatOrchida enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatPaintShop enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatPatternMaker enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatPatternSmith enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatPCStitch enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatSmashSimulator enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PatVectorPattern enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Pat_ArcInfo enumeration member" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+  <HelpKINode Title="Pct enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Pdf enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="Pif enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PixImageSystems enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="PixInsetSystems enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Plo enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Plot enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Plt enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Png enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Prop class">
+    <HelpKINode Title="Prop Class" Url="html/T_TupleGeo_General_Linq_Expressions_Prop.htm" />
+    <HelpKINode Title="about Prop class" Url="html/T_TupleGeo_General_Linq_Expressions_Prop.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Linq_Expressions_Prop.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Prop.GetPropertyName(Of T) method" Url="html/M_TupleGeo_General_Linq_Expressions_Prop_GetPropertyName__1.htm" />
+  <HelpKINode Title="Prop.GetPropertyName&lt;T&gt; method" Url="html/M_TupleGeo_General_Linq_Expressions_Prop_GetPropertyName__1.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/E_TupleGeo_General_ComponentModel_ObservableObject_1_PropertyChanged.htm" />
+  <HelpKINode Title="PropertyObserver(Of TPropertySource) class">
+    <HelpKINode Title="PropertyObserver(TPropertySource) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+    <HelpKINode Title="about PropertyObserver(Of TPropertySource) class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyObserver(Of TPropertySource).GetPropertySource method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_GetPropertySource.htm" />
+  <HelpKINode Title="PropertyObserver(Of TPropertySource).IWeakEventListener.ReceiveWeakEvent explicitly implemented method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+  <HelpKINode Title="PropertyObserver(Of TPropertySource).PropertyObserver constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1__ctor.htm" />
+  <HelpKINode Title="PropertyObserver(Of TPropertySource).RegisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_RegisterHandler.htm" />
+  <HelpKINode Title="PropertyObserver(Of TPropertySource).UnregisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_UnregisterHandler.htm" />
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt; class">
+    <HelpKINode Title="PropertyObserver(TPropertySource) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+    <HelpKINode Title="about PropertyObserver&lt;TPropertySource&gt; class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt;.GetPropertySource method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_GetPropertySource.htm" />
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt;.IWeakEventListener.ReceiveWeakEvent explicitly implemented method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt;.PropertyObserver constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1__ctor.htm" />
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt;.RegisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_RegisterHandler.htm" />
+  <HelpKINode Title="PropertyObserver&lt;TPropertySource&gt;.UnregisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_UnregisterHandler.htm" />
+  <HelpKINode Title="PS enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Psd enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Psp enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="RasterFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="ReadAhead method" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_ReadAhead.htm" />
+  <HelpKINode Title="RegisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_RegisterHandler.htm" />
+  <HelpKINode Title="RememberPasswordCheckBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_RememberPasswordCheckBox.htm" />
+  <HelpKINode Title="Replace method" Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace.htm" />
+  <HelpKINode Title="RequeryCanExecute method" Url="html/Overload_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute.htm" />
+  <HelpKINode Title="ResourceDescriptionAttribute class">
+    <HelpKINode Title="ResourceDescriptionAttribute Class" Url="html/T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+    <HelpKINode Title="about ResourceDescriptionAttribute class" Url="html/T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Attributes_ResourceDescriptionAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResourceDescriptionAttribute.Description property" Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_Description.htm" />
+  <HelpKINode Title="ResourceDescriptionAttribute.ResourceDescriptionAttribute constructor" Url="html/M_TupleGeo_General_Attributes_ResourceDescriptionAttribute__ctor.htm" />
+  <HelpKINode Title="ResourceDescriptionAttribute.ResourcesType property" Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_ResourcesType.htm" />
+  <HelpKINode Title="ResourcesType property" Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_ResourcesType.htm" />
+  <HelpKINode Title="RowsExporter class">
+    <HelpKINode Title="RowsExporter Class" Url="html/T_TupleGeo_General_Data_RowsExporter.htm" />
+    <HelpKINode Title="about RowsExporter class" Url="html/T_TupleGeo_General_Data_RowsExporter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Data_RowsExporter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RowsExporter.ExportHtml method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportHtml.htm" />
+  <HelpKINode Title="RowsExporter.ExportText method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportText.htm" />
+  <HelpKINode Title="RowsExporter.ExportXml method" Url="html/M_TupleGeo_General_Data_RowsExporter_ExportXml.htm" />
+  <HelpKINode Title="RowsExporter.GetHeaderElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetHeaderElement.htm" />
+  <HelpKINode Title="RowsExporter.GetRowElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetRowElement.htm" />
+  <HelpKINode Title="RowsExporter.GetXElement method" Url="html/M_TupleGeo_General_Data_RowsExporter_GetXElement.htm" />
+  <HelpKINode Title="RowsExporter.WriteRowString method" Url="html/M_TupleGeo_General_Data_RowsExporter_WriteRowString.htm" />
+  <HelpKINode Title="Rtf enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="SdwAmidraw enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SdwWordPro enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SelectedEnumValueName property" Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SelectedEnumValueName.htm" />
+  <HelpKINode Title="Serialize method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Serialize.htm" />
+  <HelpKINode Title="SerializeToString method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_SerializeToString.htm" />
+  <HelpKINode Title="SetBase64InitializationVector method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64InitializationVector.htm" />
+  <HelpKINode Title="SetBase64Key method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64Key.htm" />
+  <HelpKINode Title="SetCollectionViewSources method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SetCollectionViewSources.htm" />
+  <HelpKINode Title="SetDataSource method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetDataSource.htm" />
+  <HelpKINode Title="SetInitialCatalog method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetInitialCatalog.htm" />
+  <HelpKINode Title="SetInitializationVector method" Url="html/M_TupleGeo_General_Security_CryptographicString_SetInitializationVector.htm" />
+  <HelpKINode Title="SetKey method" Url="html/M_TupleGeo_General_Security_CryptographicString_SetKey.htm" />
+  <HelpKINode Title="SetPassword method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPassword.htm" />
+  <HelpKINode Title="SetPersistSecurityInfo method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPersistSecurityInfo.htm" />
+  <HelpKINode Title="SetSelectedEnumValueName method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SetSelectedEnumValueName.htm" />
+  <HelpKINode Title="SetUserID method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetUserID.htm" />
+  <HelpKINode Title="Shp enumeration member">
+    <HelpKINode Title="EsriFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+    <HelpKINode Title="VectorFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sid enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Slddwg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SortEnumDescriptionsCollection method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SortEnumDescriptionsCollection.htm" />
+  <HelpKINode Title="SP enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Spa enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SqlServerUser class">
+    <HelpKINode Title="SqlServerUser Class" Url="html/T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+    <HelpKINode Title="about SqlServerUser class" Url="html/T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_General_Data_SqlServer_SqlServerUser__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlServerUser.IsPasswordEncrypted property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordEncrypted.htm" />
+  <HelpKINode Title="SqlServerUser.IsPasswordPersisted property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordPersisted.htm" />
+  <HelpKINode Title="SqlServerUser.Password property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_Password.htm" />
+  <HelpKINode Title="SqlServerUser.SqlServerUser constructor" Url="html/M_TupleGeo_General_Data_SqlServer_SqlServerUser__ctor.htm" />
+  <HelpKINode Title="SqlServerUser.UserName property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_UserName.htm" />
+  <HelpKINode Title="SqlServerUserCollection property" Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_SqlServerUserCollection.htm" />
+  <HelpKINode Title="StartsWith enumeration member" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="Stl enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SubscribeToEvents method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SubscribeToEvents.htm" />
+  <HelpKINode Title="Svf enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Svg enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Sxd enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="SystemFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="Tdr enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="TextFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="Tif enumeration member" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="Title property" Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Title.htm" />
+  <HelpKINode Title="ToConnectionString method" Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString.htm" />
+  <HelpKINode Title="ToggleCollapsed method" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_ToggleCollapsed.htm" />
+  <HelpKINode Title="ToNonPunctuatedChars method" Url="html/M_TupleGeo_General_Text_Greek_GreekHelper_ToNonPunctuatedChars.htm" />
+  <HelpKINode Title="TupleGeo.Apps namespace" Url="html/N_TupleGeo_Apps.htm" />
+  <HelpKINode Title="TupleGeo.Apps.IModel interface" Url="html/T_TupleGeo_Apps_IModel.htm" />
+  <HelpKINode Title="TupleGeo.Apps.IView interface" Url="html/T_TupleGeo_Apps_IView.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation namespace" Url="html/N_TupleGeo_Apps_Presentation.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.BaseViewModel(Of T) class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.BaseViewModel&lt;T&gt; class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Commands namespace" Url="html/N_TupleGeo_Apps_Presentation_Commands.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Commands.ActionCommand class" Url="html/T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.IViewModel interface" Url="html/T_TupleGeo_Apps_Presentation_IViewModel.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Observers namespace" Url="html/N_TupleGeo_Apps_Presentation_Observers.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Observers.PropertyObserver(Of TPropertySource) class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Observers.PropertyObserver&lt;TPropertySource&gt; class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Observers.WeakEventManagerBase(Of TEventArgs) class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+  <HelpKINode Title="TupleGeo.Apps.Presentation.Observers.WeakEventManagerBase&lt;TEventArgs&gt; class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+  <HelpKINode Title="TupleGeo.General namespace" Url="html/N_TupleGeo_General.htm" />
+  <HelpKINode Title="TupleGeo.General.Attributes namespace" Url="html/N_TupleGeo_General_Attributes.htm" />
+  <HelpKINode Title="TupleGeo.General.Attributes.AttributeHelper class" Url="html/T_TupleGeo_General_Attributes_AttributeHelper.htm" />
+  <HelpKINode Title="TupleGeo.General.Attributes.DescriptionAttribute class" Url="html/T_TupleGeo_General_Attributes_DescriptionAttribute.htm" />
+  <HelpKINode Title="TupleGeo.General.Attributes.ResourceDescriptionAttribute class" Url="html/T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel namespace" Url="html/N_TupleGeo_General_ComponentModel.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.Design namespace" Url="html/N_TupleGeo_General_ComponentModel_Design.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.Design.EnumDescriptionEditor class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.Design.GeneralObjectEditor class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.EnumDescriptionConverter class" Url="html/T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.EnumNameDescriptionPair class" Url="html/T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.ObservableObject(Of T) class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+  <HelpKINode Title="TupleGeo.General.ComponentModel.ObservableObject&lt;T&gt; class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm" />
+  <HelpKINode Title="TupleGeo.General.Data namespace" Url="html/N_TupleGeo_General_Data.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.FilterType enumeration" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.RowsExporter class" Url="html/T_TupleGeo_General_Data_RowsExporter.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.SqlServer namespace" Url="html/N_TupleGeo_General_Data_SqlServer.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.SqlServer.ConnectionDetails class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.SqlServer.ConnectionDetailsException class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+  <HelpKINode Title="TupleGeo.General.Data.SqlServer.SqlServerUser class" Url="html/T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+  <HelpKINode Title="TupleGeo.General.FileSystem namespace" Url="html/N_TupleGeo_General_FileSystem.htm" />
+  <HelpKINode Title="TupleGeo.General.FileSystem.PathsUtility class" Url="html/T_TupleGeo_General_FileSystem_PathsUtility.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes namespace" Url="html/N_TupleGeo_General_FileTypes.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.EsriFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.ExecutableFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_ExecutableFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.RasterFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.SystemFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.TextFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.FileTypes.VectorFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="TupleGeo.General.GeneralException class" Url="html/T_TupleGeo_General_GeneralException.htm" />
+  <HelpKINode Title="TupleGeo.General.IValidation interface" Url="html/T_TupleGeo_General_IValidation.htm" />
+  <HelpKINode Title="TupleGeo.General.Linq namespace" Url="html/N_TupleGeo_General_Linq.htm" />
+  <HelpKINode Title="TupleGeo.General.Linq.Expressions namespace" Url="html/N_TupleGeo_General_Linq_Expressions.htm" />
+  <HelpKINode Title="TupleGeo.General.Linq.Expressions.Prop class" Url="html/T_TupleGeo_General_Linq_Expressions_Prop.htm" />
+  <HelpKINode Title="TupleGeo.General.Linq.IQueryableExtensions class" Url="html/T_TupleGeo_General_Linq_IQueryableExtensions.htm" />
+  <HelpKINode Title="TupleGeo.General.ObjectExtensions class" Url="html/T_TupleGeo_General_ObjectExtensions.htm" />
+  <HelpKINode Title="TupleGeo.General.Reflection namespace" Url="html/N_TupleGeo_General_Reflection.htm" />
+  <HelpKINode Title="TupleGeo.General.Reflection.AssemblyExtensions class" Url="html/T_TupleGeo_General_Reflection_AssemblyExtensions.htm" />
+  <HelpKINode Title="TupleGeo.General.Security namespace" Url="html/N_TupleGeo_General_Security.htm" />
+  <HelpKINode Title="TupleGeo.General.Security.CryptographicString class" Url="html/T_TupleGeo_General_Security_CryptographicString.htm" />
+  <HelpKINode Title="TupleGeo.General.Security.CryptographicStringException class" Url="html/T_TupleGeo_General_Security_CryptographicStringException.htm" />
+  <HelpKINode Title="TupleGeo.General.Serialization namespace" Url="html/N_TupleGeo_General_Serialization.htm" />
+  <HelpKINode Title="TupleGeo.General.Serialization.XmlSerializer class" Url="html/T_TupleGeo_General_Serialization_XmlSerializer.htm" />
+  <HelpKINode Title="TupleGeo.General.Text namespace" Url="html/N_TupleGeo_General_Text.htm" />
+  <HelpKINode Title="TupleGeo.General.Text.CodePage enumeration" Url="html/T_TupleGeo_General_Text_CodePage.htm" />
+  <HelpKINode Title="TupleGeo.General.Text.Greek namespace" Url="html/N_TupleGeo_General_Text_Greek.htm" />
+  <HelpKINode Title="TupleGeo.General.Text.Greek.GreekHelper class" Url="html/T_TupleGeo_General_Text_Greek_GreekHelper.htm" />
+  <HelpKINode Title="TupleGeo.General.Text.Greek.GreekToLatinConversionMode enumeration" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+  <HelpKINode Title="TupleGeo.General.Text.Greek.GreekToLatinTranscribe class" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm" />
+  <HelpKINode Title="TupleGeo.General.Utilities namespace" Url="html/N_TupleGeo_General_Utilities.htm" />
+  <HelpKINode Title="TupleGeo.General.Utilities.MimeTypesHelper class" Url="html/T_TupleGeo_General_Utilities_MimeTypesHelper.htm" />
+  <HelpKINode Title="TupleGeo.General.Utilities.UniqueCheckedItemsGroup class" Url="html/T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm" />
+  <HelpKINode Title="TupleGeo.General.Windows.Data namespace" Url="html/N_TupleGeo_General_Windows_Data.htm" />
+  <HelpKINode Title="TupleGeo.General.Windows.Data.EnumToResourceDescriptionConverter class" Url="html/T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm" />
+  <HelpKINode Title="TupleGeo.General.Windows.Data.Filter class" Url="html/T_TupleGeo_General_Windows_Data_Filter.htm" />
+  <HelpKINode Title="TupleGeo.General.Windows.Data.IFiltering interface" Url="html/T_TupleGeo_General_Windows_Data_IFiltering.htm" />
+  <HelpKINode Title="TupleGeo.Presentation.Controls namespace" Url="html/N_TupleGeo_Presentation_Controls.htm" />
+  <HelpKINode Title="TupleGeo.Presentation.Controls.CollapseBoxClickedEventHandler delegate" Url="html/T_TupleGeo_Presentation_Controls_CollapseBoxClickedEventHandler.htm" />
+  <HelpKINode Title="TupleGeo.Presentation.Controls.CollapsibleGroupBox class" Url="html/T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm" />
+  <HelpKINode Title="TupleGeo.Presentation.Controls.GenericToolStripDropDown class" Url="html/T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+  <HelpKINode Title="TupleGeo.Presentation.Controls.LoginControl class" Url="html/T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+  <HelpKINode Title="Txt enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="UniqueCheckedItemsGroup class">
+    <HelpKINode Title="UniqueCheckedItemsGroup Class" Url="html/T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm" />
+    <HelpKINode Title="about UniqueCheckedItemsGroup class" Url="html/T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UniqueCheckedItemsGroup.UniqueCheckedItemsGroup constructor" Url="html/Overload_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor.htm" />
+  <HelpKINode Title="UniqueCheckedItemsGroup.UpdateCheck method" Url="html/M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup_UpdateCheck.htm" />
+  <HelpKINode Title="UnregisterHandler method" Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_UnregisterHandler.htm" />
+  <HelpKINode Title="UnsubscribeFromEvents method" Url="html/M_TupleGeo_Apps_Presentation_IViewModel_UnsubscribeFromEvents.htm" />
+  <HelpKINode Title="UpdateCheck method" Url="html/M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup_UpdateCheck.htm" />
+  <HelpKINode Title="UpdateUserList method" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_UpdateUserList.htm" />
+  <HelpKINode Title="Uppercase enumeration member" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+  <HelpKINode Title="UserName property" Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_UserName.htm" />
+  <HelpKINode Title="UserNamesComboBox property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_UserNamesComboBox.htm" />
+  <HelpKINode Title="V2d enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Validate method" Url="html/M_TupleGeo_General_IValidation_Validate.htm" />
+  <HelpKINode Title="VectorFileType enumeration" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="ViewName property" Url="html/P_TupleGeo_Apps_IView_ViewName.htm" />
+  <HelpKINode Title="Vrml enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="WarningLabel property" Url="html/P_TupleGeo_Presentation_Controls_LoginControl_WarningLabel.htm" />
+  <HelpKINode Title="WeakEventManagerBase(Of TEventArgs) class">
+    <HelpKINode Title="WeakEventManagerBase(TEventArgs) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+    <HelpKINode Title="about WeakEventManagerBase(Of TEventArgs) class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WeakEventManagerBase(Of TEventArgs).IWeakEventListener.ReceiveWeakEvent explicitly implemented method" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+  <HelpKINode Title="WeakEventManagerBase(Of TEventArgs).WeakEventManagerBase constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1__ctor.htm" />
+  <HelpKINode Title="WeakEventManagerBase&lt;TEventArgs&gt; class">
+    <HelpKINode Title="WeakEventManagerBase(TEventArgs) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+    <HelpKINode Title="about WeakEventManagerBase&lt;TEventArgs&gt; class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WeakEventManagerBase&lt;TEventArgs&gt;.IWeakEventListener.ReceiveWeakEvent explicitly implemented method" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+  <HelpKINode Title="WeakEventManagerBase&lt;TEventArgs&gt;.WeakEventManagerBase constructor" Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1__ctor.htm" />
+  <HelpKINode Title="Windows1252 enumeration member" Url="html/T_TupleGeo_General_Text_CodePage.htm" />
+  <HelpKINode Title="Wmf enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="WriteRowString method" Url="html/M_TupleGeo_General_Data_RowsExporter_WriteRowString.htm" />
+  <HelpKINode Title="Wrl enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Xar enumeration member" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+  <HelpKINode Title="Xml enumeration member" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+  <HelpKINode Title="XmlSerializer class">
+    <HelpKINode Title="XmlSerializer Class" Url="html/T_TupleGeo_General_Serialization_XmlSerializer.htm" />
+    <HelpKINode Title="about XmlSerializer class" Url="html/T_TupleGeo_General_Serialization_XmlSerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_TupleGeo_General_Serialization_XmlSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XmlSerializer.Deserialize method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Deserialize.htm" />
+  <HelpKINode Title="XmlSerializer.Serialize method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Serialize.htm" />
+  <HelpKINode Title="XmlSerializer.SerializeToString method" Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_SerializeToString.htm" />
+  <HelpKINode Title="_enumDescriptionControl_KeyDown method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_KeyDown.htm" />
+  <HelpKINode Title="_enumDescriptionControl_MouseClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_MouseClick.htm" />
+  <HelpKINode Title="_generalObjectEditorControl_ButtonClick method" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__generalObjectEditorControl_ButtonClick.htm" />
+</HelpKI>

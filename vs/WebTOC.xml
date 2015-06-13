@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="708132aa-04e3-4b0a-aa6b-187ddd345bda" Title="TupleGeo.Base" Url="html/R_Project_TupleGeo_Base_451.htm">
+    <HelpTOCNode Id="fdc60430-c0f8-4c76-9898-d6244622e53a" Title="( Default Namespace )" Url="html/N_.htm">
+      <HelpTOCNode Title="&lt;Module&gt; Class" Url="html/T__Module_.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="78116b85-999f-4209-9f46-9975576495f2" Title="TupleGeo Namespaces" Url="html/G_TupleGeo.htm">
+      <HelpTOCNode Id="2cf94ee8-1b02-4ca0-8b8b-eebf243ed0f0" Title="TupleGeo.Apps Namespaces" Url="html/G_TupleGeo_Apps.htm">
+        <HelpTOCNode Id="73673dd3-621a-4cc3-98c9-a1c406c21eb6" Title="TupleGeo.Apps" Url="html/N_TupleGeo_Apps.htm">
+          <HelpTOCNode Id="85f932f2-9a3c-4b8f-a70c-f3aee4f45783" Title="IModel Interface" Url="html/T_TupleGeo_Apps_IModel.htm">
+            <HelpTOCNode Id="9cd1f366-8e7a-4578-82eb-620196a34b89" Title="IModel Properties" Url="html/Properties_T_TupleGeo_Apps_IModel.htm">
+              <HelpTOCNode Title="ModelName Property " Url="html/P_TupleGeo_Apps_IModel_ModelName.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="c8282347-083f-4c30-83d0-128c6115104a" Title="IView Interface" Url="html/T_TupleGeo_Apps_IView.htm">
+            <HelpTOCNode Id="d2bbe5f1-4171-4144-88f4-97243251d3d2" Title="IView Properties" Url="html/Properties_T_TupleGeo_Apps_IView.htm">
+              <HelpTOCNode Title="ViewName Property " Url="html/P_TupleGeo_Apps_IView_ViewName.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="31055fd1-64fb-46b3-867f-67bb3050f24c" Title="TupleGeo.Apps.Presentation" Url="html/N_TupleGeo_Apps_Presentation.htm">
+          <HelpTOCNode Id="69b1e00c-f6d0-452d-a6ed-9bcc01f9e813" Title="BaseViewModel(T) Class" Url="html/T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm">
+            <HelpTOCNode Title="BaseViewModel(T) Constructor " Url="html/M_TupleGeo_Apps_Presentation_BaseViewModel_1__ctor.htm" />
+            <HelpTOCNode Title="BaseViewModel(T) Methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+            <HelpTOCNode Id="6ebc8e85-7023-4f56-967a-662adc11fba7" Title="BaseViewModel(T) Properties" Url="html/Properties_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm">
+              <HelpTOCNode Title="Model Property " Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Model.htm" />
+              <HelpTOCNode Title="Title Property " Url="html/P_TupleGeo_Apps_Presentation_BaseViewModel_1_Title.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="BaseViewModel(T) Events" Url="html/Events_T_TupleGeo_Apps_Presentation_BaseViewModel_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="4f6c4057-c4a8-4cea-b519-730886068ede" Title="IViewModel Interface" Url="html/T_TupleGeo_Apps_Presentation_IViewModel.htm">
+            <HelpTOCNode Id="5485203b-0e7a-438d-851a-464dcb2a1b7b" Title="IViewModel Methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_IViewModel.htm">
+              <HelpTOCNode Title="SetCollectionViewSources Method " Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SetCollectionViewSources.htm" />
+              <HelpTOCNode Title="SubscribeToEvents Method " Url="html/M_TupleGeo_Apps_Presentation_IViewModel_SubscribeToEvents.htm" />
+              <HelpTOCNode Title="UnsubscribeFromEvents Method " Url="html/M_TupleGeo_Apps_Presentation_IViewModel_UnsubscribeFromEvents.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="71b870bc-dbd8-4795-ad8c-c3a5c6724975" Title="IViewModel Properties" Url="html/Properties_T_TupleGeo_Apps_Presentation_IViewModel.htm">
+              <HelpTOCNode Title="Name Property " Url="html/P_TupleGeo_Apps_Presentation_IViewModel_Name.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="dddd3599-9c3f-4186-8fa7-6d832d6d49c6" Title="TupleGeo.Apps.Presentation.Commands" Url="html/N_TupleGeo_Apps_Presentation_Commands.htm">
+          <HelpTOCNode Id="0961635d-5ff6-4a97-b432-be885e301a67" Title="ActionCommand Class" Url="html/T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm">
+            <HelpTOCNode Title="ActionCommand Constructor " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand__ctor.htm" />
+            <HelpTOCNode Id="dc58a33d-713c-4163-ac90-359d1cc4669c" Title="ActionCommand Methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm">
+              <HelpTOCNode Title="AddListener(TEntity) Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddListener__1.htm" />
+              <HelpTOCNode Title="AddObservableCollectionListener(TEntity) Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_AddObservableCollectionListener__1.htm" />
+              <HelpTOCNode Title="CanExecute Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecute.htm" />
+              <HelpTOCNode Title="Execute Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_Execute.htm" />
+              <HelpTOCNode Title="ObservableCollection_CollectionChanged Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_ObservableCollection_CollectionChanged.htm" />
+              <HelpTOCNode Title="OnCanExecuteChanged Method " Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_OnCanExecuteChanged.htm" />
+              <HelpTOCNode Id="4cf8a379-36b4-44f6-8c10-1554752d1969" Title="RequeryCanExecute Method " Url="html/Overload_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute.htm">
+                <HelpTOCNode Title="RequeryCanExecute Method (Object)" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute.htm" />
+                <HelpTOCNode Title="RequeryCanExecute Method (Object, PropertyChangedEventArgs)" Url="html/M_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="ca20f0bb-c0ad-4473-96bf-05b69e9e6845" Title="ActionCommand Events" Url="html/Events_T_TupleGeo_Apps_Presentation_Commands_ActionCommand.htm">
+              <HelpTOCNode Title="CanExecuteChanged Event" Url="html/E_TupleGeo_Apps_Presentation_Commands_ActionCommand_CanExecuteChanged.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="820dd5da-988a-4889-9603-dd6e73e8b354" Title="TupleGeo.Apps.Presentation.Observers" Url="html/N_TupleGeo_Apps_Presentation_Observers.htm">
+          <HelpTOCNode Id="b19ef34c-c8af-45cb-977a-241985ad975c" Title="PropertyObserver(TPropertySource) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm">
+            <HelpTOCNode Title="PropertyObserver(TPropertySource) Constructor " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1__ctor.htm" />
+            <HelpTOCNode Id="d34c9963-a1a0-4c65-bbf3-8fe67a8eb21f" Title="PropertyObserver(TPropertySource) Methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1.htm">
+              <HelpTOCNode Title="IWeakEventListener.ReceiveWeakEvent Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+              <HelpTOCNode Title="GetPropertySource Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_GetPropertySource.htm" />
+              <HelpTOCNode Title="RegisterHandler Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_RegisterHandler.htm" />
+              <HelpTOCNode Title="UnregisterHandler Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_PropertyObserver_1_UnregisterHandler.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="1d173aef-b10e-4c94-8cc9-776a7f49ce71" Title="WeakEventManagerBase(TEventArgs) Class" Url="html/T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm">
+            <HelpTOCNode Title="WeakEventManagerBase(TEventArgs) Constructor " Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1__ctor.htm" />
+            <HelpTOCNode Id="bd434c9c-6a96-413a-b2e2-e77f8af1b7da" Title="WeakEventManagerBase(TEventArgs) Methods" Url="html/Methods_T_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1.htm">
+              <HelpTOCNode Title="IWeakEventListener.ReceiveWeakEvent Method " Url="html/M_TupleGeo_Apps_Presentation_Observers_WeakEventManagerBase_1_System_Windows_IWeakEventListener_ReceiveWeakEvent.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="89abbee5-ae9d-41cf-ae4e-4abcdaa1cd9a" Title="TupleGeo.General Namespaces" Url="html/G_TupleGeo_General.htm">
+        <HelpTOCNode Id="4d0517e3-4abe-4ce9-8285-415847442dbb" Title="TupleGeo.General" Url="html/N_TupleGeo_General.htm">
+          <HelpTOCNode Id="5dda0470-9fd1-4203-9071-d0530d51ce06" Title="GeneralException Class" Url="html/T_TupleGeo_General_GeneralException.htm">
+            <HelpTOCNode Id="0176d9dd-96e2-4113-9344-67307ed8ddde" Title="GeneralException Constructor " Url="html/Overload_TupleGeo_General_GeneralException__ctor.htm">
+              <HelpTOCNode Title="GeneralException Constructor " Url="html/M_TupleGeo_General_GeneralException__ctor.htm" />
+              <HelpTOCNode Title="GeneralException Constructor (String)" Url="html/M_TupleGeo_General_GeneralException__ctor_2.htm" />
+              <HelpTOCNode Title="GeneralException Constructor (SerializationInfo, StreamingContext)" Url="html/M_TupleGeo_General_GeneralException__ctor_1.htm" />
+              <HelpTOCNode Title="GeneralException Constructor (String, Exception)" Url="html/M_TupleGeo_General_GeneralException__ctor_3.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GeneralException Methods" Url="html/Methods_T_TupleGeo_General_GeneralException.htm" />
+            <HelpTOCNode Title="GeneralException Properties" Url="html/Properties_T_TupleGeo_General_GeneralException.htm" />
+            <HelpTOCNode Title="GeneralException Events" Url="html/Events_T_TupleGeo_General_GeneralException.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="fae03c63-ff9b-4f30-9a68-ffc71ce506e0" Title="IValidation Interface" Url="html/T_TupleGeo_General_IValidation.htm">
+            <HelpTOCNode Id="e76a823f-9e4a-41e4-9b25-2c2146de3fa3" Title="IValidation Methods" Url="html/Methods_T_TupleGeo_General_IValidation.htm">
+              <HelpTOCNode Title="Validate Method " Url="html/M_TupleGeo_General_IValidation_Validate.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="0e1835aa-25ec-4108-b0eb-c3d76db43d4c" Title="ObjectExtensions Class" Url="html/T_TupleGeo_General_ObjectExtensions.htm">
+            <HelpTOCNode Id="cf93cf81-dabb-4729-a736-1c774d759253" Title="ObjectExtensions Methods" Url="html/Methods_T_TupleGeo_General_ObjectExtensions.htm">
+              <HelpTOCNode Title="GetPropertyValueString Method " Url="html/M_TupleGeo_General_ObjectExtensions_GetPropertyValueString.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="5108d41c-21f5-4475-9719-00e9d523d149" Title="TupleGeo.General.Attributes" Url="html/N_TupleGeo_General_Attributes.htm">
+          <HelpTOCNode Id="e8905cdb-fda4-49cb-8d4e-b45f7b820165" Title="AttributeHelper Class" Url="html/T_TupleGeo_General_Attributes_AttributeHelper.htm">
+            <HelpTOCNode Id="1e742b20-4d30-49df-9ed9-19321fe39c80" Title="AttributeHelper Methods" Url="html/Methods_T_TupleGeo_General_Attributes_AttributeHelper.htm">
+              <HelpTOCNode Id="0f95f7f7-d877-4d83-b823-1ab7f2ad0287" Title="GetFirstMatchingAttribute Method " Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute.htm">
+                <HelpTOCNode Title="GetFirstMatchingAttribute Method (Object, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute.htm" />
+                <HelpTOCNode Title="GetFirstMatchingAttribute Method (Type, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="44fc8f82-093c-41fc-be0c-78fca4a91f39" Title="GetFirstMatchingCustomAttribute Method " Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute.htm">
+                <HelpTOCNode Title="GetFirstMatchingCustomAttribute Method (Object, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute.htm" />
+                <HelpTOCNode Title="GetFirstMatchingCustomAttribute Method (Type, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="GetFirstMatchingEnumeratedValueAttribute Method " Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingEnumeratedValueAttribute.htm" />
+              <HelpTOCNode Id="de9e1476-e067-40f1-bbaf-a88ea048f8c2" Title="GetMatchingAttributes Method " Url="html/Overload_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes.htm">
+                <HelpTOCNode Title="GetMatchingAttributes Method (Object, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes.htm" />
+                <HelpTOCNode Title="GetMatchingAttributes Method (Type, Type)" Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="GetMatchingCustomAttributes Method " Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingCustomAttributes.htm" />
+              <HelpTOCNode Title="GetMatchingEnumeratedValueAttributes Method " Url="html/M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingEnumeratedValueAttributes.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="f04b1f36-36a7-43e3-959a-85c627660af6" Title="DescriptionAttribute Class" Url="html/T_TupleGeo_General_Attributes_DescriptionAttribute.htm">
+            <HelpTOCNode Id="e2b78359-39cd-420a-a1b1-abdc27d4aec6" Title="DescriptionAttribute Constructor " Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute__ctor.htm">
+              <HelpTOCNode Title="DescriptionAttribute Constructor (String)" Url="html/M_TupleGeo_General_Attributes_DescriptionAttribute__ctor.htm" />
+              <HelpTOCNode Title="DescriptionAttribute Constructor (String, String)" Url="html/M_TupleGeo_General_Attributes_DescriptionAttribute__ctor_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="73901967-c480-4b6f-abd8-bbd72e0b0859" Title="DescriptionAttribute Methods" Url="html/Methods_T_TupleGeo_General_Attributes_DescriptionAttribute.htm">
+              <HelpTOCNode Id="ee7bd568-b60e-496d-8d07-d0700d4cf585" Title="GetEnumeratedValueDescriptionAttribute Method " Url="html/Overload_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute.htm">
+                <HelpTOCNode Title="GetEnumeratedValueDescriptionAttribute Method (Object)" Url="html/M_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute.htm" />
+                <HelpTOCNode Title="GetEnumeratedValueDescriptionAttribute Method (Object, String)" Url="html/M_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="2e5445e1-48f1-4ea0-8777-69874f13a8c3" Title="DescriptionAttribute Properties" Url="html/Properties_T_TupleGeo_General_Attributes_DescriptionAttribute.htm">
+              <HelpTOCNode Title="Culture Property " Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Culture.htm" />
+              <HelpTOCNode Title="Description Property " Url="html/P_TupleGeo_General_Attributes_DescriptionAttribute_Description.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="bc0aea1b-be50-43f5-85a8-b8e96236f441" Title="ResourceDescriptionAttribute Class" Url="html/T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm">
+            <HelpTOCNode Title="ResourceDescriptionAttribute Constructor " Url="html/M_TupleGeo_General_Attributes_ResourceDescriptionAttribute__ctor.htm" />
+            <HelpTOCNode Title="ResourceDescriptionAttribute Methods" Url="html/Methods_T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm" />
+            <HelpTOCNode Id="a34c9d20-c1e1-4572-a80b-cf7de33021aa" Title="ResourceDescriptionAttribute Properties" Url="html/Properties_T_TupleGeo_General_Attributes_ResourceDescriptionAttribute.htm">
+              <HelpTOCNode Title="Description Property " Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_Description.htm" />
+              <HelpTOCNode Title="ResourcesType Property " Url="html/P_TupleGeo_General_Attributes_ResourceDescriptionAttribute_ResourcesType.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9e200a11-a58c-4fad-8ddd-241f47e7cfc3" Title="TupleGeo.General.ComponentModel" Url="html/N_TupleGeo_General_ComponentModel.htm">
+          <HelpTOCNode Id="d0b0e090-e613-44a8-b1f0-bb899af40c06" Title="EnumDescriptionConverter Class" Url="html/T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm">
+            <HelpTOCNode Title="EnumDescriptionConverter Constructor " Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter__ctor.htm" />
+            <HelpTOCNode Id="c2cd24c9-8aa2-4341-b884-59e0f2527991" Title="EnumDescriptionConverter Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm">
+              <HelpTOCNode Id="f8095a27-bb8d-4779-a392-d33d5e300241" Title="ConvertFrom Method " Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom.htm">
+                <HelpTOCNode Title="ConvertFrom Method (ITypeDescriptorContext, CultureInfo, Object)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertFrom.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="b7bf2db2-84c4-426b-b65e-257ea53dcc19" Title="ConvertTo Method " Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertTo.htm">
+                <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_ConvertTo.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="baa0318a-3ea5-430b-9354-7b2d4a7d9929" Title="GetEnumDescription Method " Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription.htm">
+                <HelpTOCNode Title="GetEnumDescription Method (Enum)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription.htm" />
+                <HelpTOCNode Title="GetEnumDescription Method (Enum, String)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_1.htm" />
+                <HelpTOCNode Title="GetEnumDescription Method (Type, String)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_2.htm" />
+                <HelpTOCNode Title="GetEnumDescription Method (Type, String, String)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_3.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="35afd523-3c39-4ba1-a614-e43b0eb4e2f7" Title="GetEnumDescriptions Method " Url="html/Overload_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions.htm">
+                <HelpTOCNode Title="GetEnumDescriptions Method (Enum)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions.htm" />
+                <HelpTOCNode Title="GetEnumDescriptions Method (Type)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_2.htm" />
+                <HelpTOCNode Title="GetEnumDescriptions Method (Enum, String)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_1.htm" />
+                <HelpTOCNode Title="GetEnumDescriptions Method (Type, String)" Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_3.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="GetEnumValue Method " Url="html/M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumValue.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="EnumDescriptionConverter Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_EnumDescriptionConverter.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="47477563-3ed9-4d6b-9a64-7568e8738ff0" Title="EnumNameDescriptionPair Class" Url="html/T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm">
+            <HelpTOCNode Title="EnumNameDescriptionPair Constructor " Url="html/M_TupleGeo_General_ComponentModel_EnumNameDescriptionPair__ctor.htm" />
+            <HelpTOCNode Title="EnumNameDescriptionPair Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm" />
+            <HelpTOCNode Id="b5e5079b-1fa2-4412-a395-963c1483e4b2" Title="EnumNameDescriptionPair Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_EnumNameDescriptionPair.htm">
+              <HelpTOCNode Title="Description Property " Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Description.htm" />
+              <HelpTOCNode Title="Name Property " Url="html/P_TupleGeo_General_ComponentModel_EnumNameDescriptionPair_Name.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="f5d3ce78-db38-4896-8b49-cf58692694bf" Title="ObservableObject(T) Class" Url="html/T_TupleGeo_General_ComponentModel_ObservableObject_1.htm">
+            <HelpTOCNode Title="ObservableObject(T) Constructor " Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1__ctor.htm" />
+            <HelpTOCNode Id="666d54c8-0eb8-4c65-a855-3b7bc32617ca" Title="ObservableObject(T) Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm">
+              <HelpTOCNode Id="cfc41392-c38a-4459-a163-70dfbe23a041" Title="OnPropertyChanged Method " Url="html/Overload_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged.htm">
+                <HelpTOCNode Title="OnPropertyChanged Method (Expression(Func(T, Object)))" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged.htm" />
+                <HelpTOCNode Title="OnPropertyChanged Method (String)" Url="html/M_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="5708d291-f769-4001-a66e-5a709a521f93" Title="ObservableObject(T) Events" Url="html/Events_T_TupleGeo_General_ComponentModel_ObservableObject_1.htm">
+              <HelpTOCNode Title="PropertyChanged Event" Url="html/E_TupleGeo_General_ComponentModel_ObservableObject_1_PropertyChanged.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="48782aca-7da2-4bef-b6d1-ef87423f36b7" Title="TupleGeo.General.ComponentModel.Design" Url="html/N_TupleGeo_General_ComponentModel_Design.htm">
+          <HelpTOCNode Id="334ab18b-e50f-4218-8eba-4ee016ac601c" Title="EnumDescriptionEditor Class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm">
+            <HelpTOCNode Title="EnumDescriptionEditor Constructor " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__ctor.htm" />
+            <HelpTOCNode Id="78014f73-937f-4296-9088-3e0df3cf6800" Title="EnumDescriptionEditor Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm">
+              <HelpTOCNode Title="_enumDescriptionControl_KeyDown Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_KeyDown.htm" />
+              <HelpTOCNode Title="_enumDescriptionControl_MouseClick Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor__enumDescriptionControl_MouseClick.htm" />
+              <HelpTOCNode Title="Dispose Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_Dispose.htm" />
+              <HelpTOCNode Id="f941aa2b-2a46-4660-a874-7873e8cc4855" Title="EditValue Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_EditValue.htm">
+                <HelpTOCNode Title="EditValue Method (ITypeDescriptorContext, IServiceProvider, Object)" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_EditValue.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="de5b87ed-c47d-44cb-b89e-72604cf67f5b" Title="GetEditStyle Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetEditStyle.htm">
+                <HelpTOCNode Title="GetEditStyle Method (ITypeDescriptorContext)" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetEditStyle.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="ec09010d-2251-4f44-9d0a-7f630ece4c4d" Title="GetPaintValueSupported Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetPaintValueSupported.htm">
+                <HelpTOCNode Title="GetPaintValueSupported Method (ITypeDescriptorContext)" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_GetPaintValueSupported.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="3a6b2093-2240-492b-a116-0a8e5c7912e2" Title="EnumDescriptionEditor Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor.htm">
+              <HelpTOCNode Title="IsDropDownResizable Property " Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditor_IsDropDownResizable.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="c326eb88-7eca-4cb3-9cc3-d7c3b2053cc6" Title="EnumDescriptionEditorControl Class" Url="html/T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm">
+            <HelpTOCNode Title="EnumDescriptionEditorControl Constructor " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl__ctor.htm" />
+            <HelpTOCNode Id="a5e0e9a4-ca22-465f-893c-e7768ee05ae9" Title="EnumDescriptionEditorControl Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm">
+              <HelpTOCNode Title="DataBind Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_DataBind.htm" />
+              <HelpTOCNode Id="9b1551ed-b88a-4798-89ce-4b5a18706781" Title="Dispose Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_Dispose.htm">
+                <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_Dispose.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="EnumDescriptionControl_Load Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionControl_Load.htm" />
+              <HelpTOCNode Title="EnumDescriptionsListBox_MouseClick Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_MouseClick.htm" />
+              <HelpTOCNode Title="EnumDescriptionsListBox_SelectedValueChanged Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsListBox_SelectedValueChanged.htm" />
+              <HelpTOCNode Title="InitializeComponent Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_InitializeComponent.htm" />
+              <HelpTOCNode Title="SetSelectedEnumValueName Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SetSelectedEnumValueName.htm" />
+              <HelpTOCNode Title="SortEnumDescriptionsCollection Method " Url="html/M_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SortEnumDescriptionsCollection.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="0c34d11a-5ed8-4256-8eeb-8d5ee80f9920" Title="EnumDescriptionEditorControl Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm">
+              <HelpTOCNode Title="EnumDescriptionsCollection Property " Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_EnumDescriptionsCollection.htm" />
+              <HelpTOCNode Title="SelectedEnumValueName Property " Url="html/P_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl_SelectedEnumValueName.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="EnumDescriptionEditorControl Events" Url="html/Events_T_TupleGeo_General_ComponentModel_Design_EnumDescriptionEditorControl.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="888ac8d4-e191-4664-bee8-1ff803ab97f0" Title="GeneralObjectEditor Class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm">
+            <HelpTOCNode Title="GeneralObjectEditor Constructor " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__ctor.htm" />
+            <HelpTOCNode Id="6aa31ff6-36cf-4aa5-84ea-b5c0dbb1c011" Title="GeneralObjectEditor Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm">
+              <HelpTOCNode Title="_generalObjectEditorControl_ButtonClick Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor__generalObjectEditorControl_ButtonClick.htm" />
+              <HelpTOCNode Title="Dispose Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_Dispose.htm" />
+              <HelpTOCNode Id="45370aa3-2383-4d92-88cc-a8200b96d5ee" Title="EditValue Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_EditValue.htm">
+                <HelpTOCNode Title="EditValue Method (ITypeDescriptorContext, IServiceProvider, Object)" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_EditValue.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="6c8ed25b-8ae9-4d53-89f0-c805254af743" Title="GetEditStyle Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetEditStyle.htm">
+                <HelpTOCNode Title="GetEditStyle Method (ITypeDescriptorContext)" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetEditStyle.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="0414071c-76f5-4ccc-b33e-e19e1d41280b" Title="GetPaintValueSupported Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetPaintValueSupported.htm">
+                <HelpTOCNode Title="GetPaintValueSupported Method (ITypeDescriptorContext)" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_GetPaintValueSupported.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+            <HelpTOCNode Id="b62474d6-b6e6-4860-8165-5f8a7f1e9bdf" Title="GeneralObjectEditor Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor.htm">
+              <HelpTOCNode Title="IsDropDownResizable Property " Url="html/P_TupleGeo_General_ComponentModel_Design_GeneralObjectEditor_IsDropDownResizable.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="827d1044-1c2c-454f-9d4a-57e308150e52" Title="GeneralObjectEditorControl Class" Url="html/T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm">
+            <HelpTOCNode Title="GeneralObjectEditorControl Constructor " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl__ctor.htm" />
+            <HelpTOCNode Id="4861b59b-0e94-4a01-b236-28190e6394f0" Title="GeneralObjectEditorControl Methods" Url="html/Methods_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm">
+              <HelpTOCNode Title="DeleteObjectToolStripButton_Click Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_DeleteObjectToolStripButton_Click.htm" />
+              <HelpTOCNode Id="74b5edaf-7087-4c8b-ba51-8d27480bb631" Title="Dispose Method " Url="html/Overload_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_Dispose.htm">
+                <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_Dispose.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="InitializeComponent Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_InitializeComponent.htm" />
+              <HelpTOCNode Title="NewObjectToolStripButton_Click Method " Url="html/M_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_NewObjectToolStripButton_Click.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="GeneralObjectEditorControl Properties" Url="html/Properties_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm" />
+            <HelpTOCNode Id="6c1593e2-3a7d-4b1f-b556-64fbfb8d7748" Title="GeneralObjectEditorControl Events" Url="html/Events_T_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl.htm">
+              <HelpTOCNode Title="ButtonClick Event" Url="html/E_TupleGeo_General_ComponentModel_Design_GeneralObjectEditorControl_ButtonClick.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="1958181f-8bd7-4d36-b938-e889e839fe88" Title="TupleGeo.General.Data" Url="html/N_TupleGeo_General_Data.htm">
+          <HelpTOCNode Title="FilterType Enumeration" Url="html/T_TupleGeo_General_Data_FilterType.htm" />
+          <HelpTOCNode Id="a0d0722c-2445-4ed3-99d1-8287e09fd635" Title="RowsExporter Class" Url="html/T_TupleGeo_General_Data_RowsExporter.htm">
+            <HelpTOCNode Id="18a3bc5e-7858-420e-a18a-b7c1ea01ea50" Title="RowsExporter Methods" Url="html/Methods_T_TupleGeo_General_Data_RowsExporter.htm">
+              <HelpTOCNode Title="ExportHtml Method " Url="html/M_TupleGeo_General_Data_RowsExporter_ExportHtml.htm" />
+              <HelpTOCNode Title="ExportText Method " Url="html/M_TupleGeo_General_Data_RowsExporter_ExportText.htm" />
+              <HelpTOCNode Title="ExportXml Method " Url="html/M_TupleGeo_General_Data_RowsExporter_ExportXml.htm" />
+              <HelpTOCNode Title="GetHeaderElement Method " Url="html/M_TupleGeo_General_Data_RowsExporter_GetHeaderElement.htm" />
+              <HelpTOCNode Title="GetRowElement Method " Url="html/M_TupleGeo_General_Data_RowsExporter_GetRowElement.htm" />
+              <HelpTOCNode Title="GetXElement Method " Url="html/M_TupleGeo_General_Data_RowsExporter_GetXElement.htm" />
+              <HelpTOCNode Title="WriteRowString Method " Url="html/M_TupleGeo_General_Data_RowsExporter_WriteRowString.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="62589285-eeab-42a8-8f5b-3764739e62dc" Title="TupleGeo.General.Data.SqlServer" Url="html/N_TupleGeo_General_Data_SqlServer.htm">
+          <HelpTOCNode Id="3b333c62-2451-4bf3-a559-840fdd64d496" Title="ConnectionDetails Class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm">
+            <HelpTOCNode Id="7cf48640-ff69-48f1-a814-80138ddfd9ab" Title="ConnectionDetails Constructor " Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor.htm">
+              <HelpTOCNode Title="ConnectionDetails Constructor " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor.htm" />
+              <HelpTOCNode Title="ConnectionDetails Constructor (String, Boolean)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="a1af87e4-c554-46b1-b257-b9719ca67210" Title="ConnectionDetails Methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm">
+              <HelpTOCNode Id="f73654b9-0379-42d9-bdd2-930b2338dc54" Title="FromConnectionString Method " Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString.htm">
+                <HelpTOCNode Title="FromConnectionString Method (String, Boolean)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString.htm" />
+                <HelpTOCNode Title="FromConnectionString Method (String, String, String)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="SetBase64InitializationVector Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64InitializationVector.htm" />
+              <HelpTOCNode Title="SetBase64Key Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetBase64Key.htm" />
+              <HelpTOCNode Title="SetDataSource Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetDataSource.htm" />
+              <HelpTOCNode Title="SetInitialCatalog Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetInitialCatalog.htm" />
+              <HelpTOCNode Title="SetPassword Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPassword.htm" />
+              <HelpTOCNode Title="SetPersistSecurityInfo Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetPersistSecurityInfo.htm" />
+              <HelpTOCNode Title="SetUserID Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_SetUserID.htm" />
+              <HelpTOCNode Id="de0b40aa-726c-49e9-afe3-704895f11773" Title="ToConnectionString Method " Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString.htm">
+                <HelpTOCNode Title="ToConnectionString Method (String)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString.htm" />
+                <HelpTOCNode Title="ToConnectionString Method (String, String, String)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="UpdateUserList Method " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetails_UpdateUserList.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="97f304b2-c5d3-4645-903b-38b3c24c1a33" Title="ConnectionDetails Properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_ConnectionDetails.htm">
+              <HelpTOCNode Title="DataSource Property " Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_DataSource.htm" />
+              <HelpTOCNode Title="InitialCatalog Property " Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_InitialCatalog.htm" />
+              <HelpTOCNode Title="IsPersistSecurityInfo Property " Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_IsPersistSecurityInfo.htm" />
+              <HelpTOCNode Title="SqlServerUserCollection Property " Url="html/P_TupleGeo_General_Data_SqlServer_ConnectionDetails_SqlServerUserCollection.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="7da42863-8fac-498d-943f-fc1433ddefa2" Title="ConnectionDetailsException Class" Url="html/T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm">
+            <HelpTOCNode Id="b0e2d58e-7e3b-472d-ac2f-fde5cf60f860" Title="ConnectionDetailsException Constructor " Url="html/Overload_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor.htm">
+              <HelpTOCNode Title="ConnectionDetailsException Constructor " Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor.htm" />
+              <HelpTOCNode Title="ConnectionDetailsException Constructor (String)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_2.htm" />
+              <HelpTOCNode Title="ConnectionDetailsException Constructor (SerializationInfo, StreamingContext)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_1.htm" />
+              <HelpTOCNode Title="ConnectionDetailsException Constructor (String, Exception)" Url="html/M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_3.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="ConnectionDetailsException Methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+            <HelpTOCNode Title="ConnectionDetailsException Properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+            <HelpTOCNode Title="ConnectionDetailsException Events" Url="html/Events_T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="70c6ba67-72a5-4bc1-9af0-4a185de95032" Title="SqlServerUser Class" Url="html/T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm">
+            <HelpTOCNode Title="SqlServerUser Constructor " Url="html/M_TupleGeo_General_Data_SqlServer_SqlServerUser__ctor.htm" />
+            <HelpTOCNode Title="SqlServerUser Methods" Url="html/Methods_T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm" />
+            <HelpTOCNode Id="150427b5-6017-4d49-844c-52d21ac19cbb" Title="SqlServerUser Properties" Url="html/Properties_T_TupleGeo_General_Data_SqlServer_SqlServerUser.htm">
+              <HelpTOCNode Title="IsPasswordEncrypted Property " Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordEncrypted.htm" />
+              <HelpTOCNode Title="IsPasswordPersisted Property " Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_IsPasswordPersisted.htm" />
+              <HelpTOCNode Title="Password Property " Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_Password.htm" />
+              <HelpTOCNode Title="UserName Property " Url="html/P_TupleGeo_General_Data_SqlServer_SqlServerUser_UserName.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="c9515b6a-e79f-42fb-a09d-d3e552c1e644" Title="TupleGeo.General.FileSystem" Url="html/N_TupleGeo_General_FileSystem.htm">
+          <HelpTOCNode Id="bf98b3cb-0032-4a0a-a27a-38c99e69008a" Title="PathsUtility Class" Url="html/T_TupleGeo_General_FileSystem_PathsUtility.htm">
+            <HelpTOCNode Id="1e429120-e813-40e1-9b87-f9c4abed80e8" Title="PathsUtility Methods" Url="html/Methods_T_TupleGeo_General_FileSystem_PathsUtility.htm">
+              <HelpTOCNode Title="AddBackslashToPath Method " Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddBackslashToPath.htm" />
+              <HelpTOCNode Title="AddSlashToPath Method " Url="html/M_TupleGeo_General_FileSystem_PathsUtility_AddSlashToPath.htm" />
+              <HelpTOCNode Title="GetFileExtension Method " Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetFileExtension.htm" />
+              <HelpTOCNode Title="GetParentPath Method " Url="html/M_TupleGeo_General_FileSystem_PathsUtility_GetParentPath.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b4f5a032-06b6-483f-bb8d-047ed250bbe9" Title="TupleGeo.General.FileTypes" Url="html/N_TupleGeo_General_FileTypes.htm">
+          <HelpTOCNode Title="EsriFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_EsriFileType.htm" />
+          <HelpTOCNode Title="ExecutableFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_ExecutableFileType.htm" />
+          <HelpTOCNode Title="RasterFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_RasterFileType.htm" />
+          <HelpTOCNode Title="SystemFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_SystemFileType.htm" />
+          <HelpTOCNode Title="TextFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_TextFileType.htm" />
+          <HelpTOCNode Title="VectorFileType Enumeration" Url="html/T_TupleGeo_General_FileTypes_VectorFileType.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="444d53be-3650-4498-8775-c6e8b3c252ba" Title="TupleGeo.General.Linq" Url="html/N_TupleGeo_General_Linq.htm">
+          <HelpTOCNode Id="505dfa93-f772-4cb7-9553-338b1bbdb9e5" Title="IQueryableExtensions Class" Url="html/T_TupleGeo_General_Linq_IQueryableExtensions.htm">
+            <HelpTOCNode Id="be684d9d-071e-4ee6-aa06-92c197912911" Title="IQueryableExtensions Methods" Url="html/Methods_T_TupleGeo_General_Linq_IQueryableExtensions.htm">
+              <HelpTOCNode Title="OrderBy(TEntity) Method " Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderBy__1.htm" />
+              <HelpTOCNode Title="OrderByDescending(TEntity) Method " Url="html/M_TupleGeo_General_Linq_IQueryableExtensions_OrderByDescending__1.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="7a9c0d6d-3ab9-4948-bd7c-7f490e5ab016" Title="TupleGeo.General.Linq.Expressions" Url="html/N_TupleGeo_General_Linq_Expressions.htm">
+          <HelpTOCNode Id="761d238c-38d7-4777-a2c2-02cd40371805" Title="Prop Class" Url="html/T_TupleGeo_General_Linq_Expressions_Prop.htm">
+            <HelpTOCNode Id="ee5e768f-0de1-48d3-b9ef-999e23ed9b92" Title="Prop Methods" Url="html/Methods_T_TupleGeo_General_Linq_Expressions_Prop.htm">
+              <HelpTOCNode Title="GetPropertyName(T) Method " Url="html/M_TupleGeo_General_Linq_Expressions_Prop_GetPropertyName__1.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="08e1a593-5d58-45af-9a87-d90a9f5a3097" Title="TupleGeo.General.Reflection" Url="html/N_TupleGeo_General_Reflection.htm">
+          <HelpTOCNode Id="48ec66d3-3e3c-437b-8a9c-6beb2a779945" Title="AssemblyExtensions Class" Url="html/T_TupleGeo_General_Reflection_AssemblyExtensions.htm">
+            <HelpTOCNode Id="ac97c208-f468-4040-8ebd-6c56d1cb0a85" Title="AssemblyExtensions Methods" Url="html/Methods_T_TupleGeo_General_Reflection_AssemblyExtensions.htm">
+              <HelpTOCNode Title="CreateInstance Method " Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_CreateInstance.htm" />
+              <HelpTOCNode Title="GetExportedTypes Method " Url="html/M_TupleGeo_General_Reflection_AssemblyExtensions_GetExportedTypes.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="b1739efe-9959-492f-ab48-e1578277236a" Title="TupleGeo.General.Security" Url="html/N_TupleGeo_General_Security.htm">
+          <HelpTOCNode Id="bd1ed65d-cdb5-4310-a943-d84a540f3fd1" Title="CryptographicString Class" Url="html/T_TupleGeo_General_Security_CryptographicString.htm">
+            <HelpTOCNode Title="CryptographicString Constructor " Url="html/M_TupleGeo_General_Security_CryptographicString__ctor.htm" />
+            <HelpTOCNode Title="CryptographicString Constructor " Url="html/M_TupleGeo_General_Security_CryptographicString__cctor.htm" />
+            <HelpTOCNode Id="7026d033-dd6e-4468-9ea6-ed5986da9bad" Title="CryptographicString Methods" Url="html/Methods_T_TupleGeo_General_Security_CryptographicString.htm">
+              <HelpTOCNode Title="Decrypt Method " Url="html/M_TupleGeo_General_Security_CryptographicString_Decrypt.htm" />
+              <HelpTOCNode Title="Encrypt Method " Url="html/M_TupleGeo_General_Security_CryptographicString_Encrypt.htm" />
+              <HelpTOCNode Title="GenerateRijndaelSecretInitilizationVector Method " Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretInitilizationVector.htm" />
+              <HelpTOCNode Title="GenerateRijndaelSecretKey Method " Url="html/M_TupleGeo_General_Security_CryptographicString_GenerateRijndaelSecretKey.htm" />
+              <HelpTOCNode Title="GetInitializationVector Method " Url="html/M_TupleGeo_General_Security_CryptographicString_GetInitializationVector.htm" />
+              <HelpTOCNode Title="GetKey Method " Url="html/M_TupleGeo_General_Security_CryptographicString_GetKey.htm" />
+              <HelpTOCNode Title="SetInitializationVector Method " Url="html/M_TupleGeo_General_Security_CryptographicString_SetInitializationVector.htm" />
+              <HelpTOCNode Title="SetKey Method " Url="html/M_TupleGeo_General_Security_CryptographicString_SetKey.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="52029466-6587-4f86-b905-ccf1b87cb122" Title="CryptographicStringException Class" Url="html/T_TupleGeo_General_Security_CryptographicStringException.htm">
+            <HelpTOCNode Id="acbb57b1-43fe-414e-b320-f1b6fff35c9f" Title="CryptographicStringException Constructor " Url="html/Overload_TupleGeo_General_Security_CryptographicStringException__ctor.htm">
+              <HelpTOCNode Title="CryptographicStringException Constructor " Url="html/M_TupleGeo_General_Security_CryptographicStringException__ctor.htm" />
+              <HelpTOCNode Title="CryptographicStringException Constructor (String)" Url="html/M_TupleGeo_General_Security_CryptographicStringException__ctor_2.htm" />
+              <HelpTOCNode Title="CryptographicStringException Constructor (SerializationInfo, StreamingContext)" Url="html/M_TupleGeo_General_Security_CryptographicStringException__ctor_1.htm" />
+              <HelpTOCNode Title="CryptographicStringException Constructor (String, Exception)" Url="html/M_TupleGeo_General_Security_CryptographicStringException__ctor_3.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="CryptographicStringException Methods" Url="html/Methods_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+            <HelpTOCNode Title="CryptographicStringException Properties" Url="html/Properties_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+            <HelpTOCNode Title="CryptographicStringException Events" Url="html/Events_T_TupleGeo_General_Security_CryptographicStringException.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="e217d506-bffe-4ac9-bdae-4bfc31435374" Title="TupleGeo.General.Serialization" Url="html/N_TupleGeo_General_Serialization.htm">
+          <HelpTOCNode Id="7705f68e-133d-46e8-b5ea-cfeb4e6cf0fa" Title="XmlSerializer Class" Url="html/T_TupleGeo_General_Serialization_XmlSerializer.htm">
+            <HelpTOCNode Id="96b3e6a3-dd77-4f1d-ab76-96e14aefb5b5" Title="XmlSerializer Methods" Url="html/Methods_T_TupleGeo_General_Serialization_XmlSerializer.htm">
+              <HelpTOCNode Id="cc7f7b8c-83e1-4d8c-829b-a348aa9784dc" Title="Deserialize Method " Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Deserialize.htm">
+                <HelpTOCNode Title="Deserialize Method (Type, Byte[])" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Deserialize.htm" />
+                <HelpTOCNode Title="Deserialize Method (Type, Stream)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_1.htm" />
+                <HelpTOCNode Title="Deserialize Method (Type, String)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_2.htm" />
+                <HelpTOCNode Title="Deserialize Method (Type, String, Encoding)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_3.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="fbd97f6b-0dcf-4daf-be92-900c651f8cb5" Title="Serialize Method " Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_Serialize.htm">
+                <HelpTOCNode Title="Serialize Method (Object)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize.htm" />
+                <HelpTOCNode Title="Serialize Method (Object, Byte[])" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize_1.htm" />
+                <HelpTOCNode Title="Serialize Method (Object, Stream)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize_2.htm" />
+                <HelpTOCNode Title="Serialize Method (Object, String)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize_4.htm" />
+                <HelpTOCNode Title="Serialize Method (Object, Stream, Encoding)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize_3.htm" />
+                <HelpTOCNode Title="Serialize Method (Object, String, Encoding)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_Serialize_5.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Id="5ee3e43c-d403-42cd-b17b-347e72918052" Title="SerializeToString Method " Url="html/Overload_TupleGeo_General_Serialization_XmlSerializer_SerializeToString.htm">
+                <HelpTOCNode Title="SerializeToString Method (Object)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_SerializeToString.htm" />
+                <HelpTOCNode Title="SerializeToString Method (Object, Encoding)" Url="html/M_TupleGeo_General_Serialization_XmlSerializer_SerializeToString_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="178627fd-4462-4dfb-bb33-a9934b73d7ed" Title="TupleGeo.General.Text" Url="html/N_TupleGeo_General_Text.htm">
+          <HelpTOCNode Title="CodePage Enumeration" Url="html/T_TupleGeo_General_Text_CodePage.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="442cdfad-300f-4f1b-817d-368339c34596" Title="TupleGeo.General.Text.Greek" Url="html/N_TupleGeo_General_Text_Greek.htm">
+          <HelpTOCNode Id="73283e52-8314-4d37-861f-11ead20d0396" Title="GreekHelper Class" Url="html/T_TupleGeo_General_Text_Greek_GreekHelper.htm">
+            <HelpTOCNode Title="GreekHelper Constructor " Url="html/M_TupleGeo_General_Text_Greek_GreekHelper__cctor.htm" />
+            <HelpTOCNode Id="f113afa2-9403-4a96-8f94-564cefe6601e" Title="GreekHelper Methods" Url="html/Methods_T_TupleGeo_General_Text_Greek_GreekHelper.htm">
+              <HelpTOCNode Title="ToNonPunctuatedChars Method " Url="html/M_TupleGeo_General_Text_Greek_GreekHelper_ToNonPunctuatedChars.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Title="GreekToLatinConversionMode Enumeration" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinConversionMode.htm" />
+          <HelpTOCNode Id="6d310265-d708-4f6c-9a7d-b9e6795e1058" Title="GreekToLatinTranscribe Class" Url="html/T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm">
+            <HelpTOCNode Title="GreekToLatinTranscribe Constructor " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe__cctor.htm" />
+            <HelpTOCNode Id="f9cc78e9-6125-457c-8ad9-d4e672ead48e" Title="GreekToLatinTranscribe Methods" Url="html/Methods_T_TupleGeo_General_Text_Greek_GreekToLatinTranscribe.htm">
+              <HelpTOCNode Id="4278cb3b-ffef-4571-8448-0d16d7cffd11" Title="Convert Method " Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert.htm">
+                <HelpTOCNode Title="Convert Method (String)" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert.htm" />
+                <HelpTOCNode Title="Convert Method (String, GreekToLatinConversionMode)" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert_1.htm" />
+              </HelpTOCNode>
+              <HelpTOCNode Title="MapDouble Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapDouble.htm" />
+              <HelpTOCNode Title="MapNextVoiced Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiced.htm" />
+              <HelpTOCNode Title="MapNextVoiceless Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapNextVoiceless.htm" />
+              <HelpTOCNode Title="MapSingle Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapSingle.htm" />
+              <HelpTOCNode Title="MapWordMiddle Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordMiddle.htm" />
+              <HelpTOCNode Title="MapWordStart Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_MapWordStart.htm" />
+              <HelpTOCNode Title="ReadAhead Method " Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_ReadAhead.htm" />
+              <HelpTOCNode Id="41a4ecc7-4b30-416e-8d7c-d72973c5c57f" Title="Replace Method " Url="html/Overload_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace.htm">
+                <HelpTOCNode Title="Replace Method (Char, GreekToLatinConversionMode)" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace.htm" />
+                <HelpTOCNode Title="Replace Method (String, Boolean, GreekToLatinConversionMode)" Url="html/M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace_1.htm" />
+              </HelpTOCNode>
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="7530a9f8-d92d-4b04-b644-195b04378673" Title="TupleGeo.General.Utilities" Url="html/N_TupleGeo_General_Utilities.htm">
+          <HelpTOCNode Id="ad6ff3ba-2a47-4451-bf30-b77304d2cb73" Title="MimeTypesHelper Class" Url="html/T_TupleGeo_General_Utilities_MimeTypesHelper.htm">
+            <HelpTOCNode Id="8e66de94-4e9f-4300-b82e-8ce97bc2302f" Title="MimeTypesHelper Methods" Url="html/Methods_T_TupleGeo_General_Utilities_MimeTypesHelper.htm">
+              <HelpTOCNode Title="GetMimeType Method " Url="html/M_TupleGeo_General_Utilities_MimeTypesHelper_GetMimeType.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="07742a95-6bf2-487d-8108-d927b518965d" Title="UniqueCheckedItemsGroup Class" Url="html/T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm">
+            <HelpTOCNode Id="db68f615-4121-46f4-96f5-085253893b5d" Title="UniqueCheckedItemsGroup Constructor " Url="html/Overload_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor.htm">
+              <HelpTOCNode Title="UniqueCheckedItemsGroup Constructor " Url="html/M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor.htm" />
+              <HelpTOCNode Title="UniqueCheckedItemsGroup Constructor (Object)" Url="html/M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor_1.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Id="9c598930-5eb3-4111-8188-cbc6aa54b562" Title="UniqueCheckedItemsGroup Methods" Url="html/Methods_T_TupleGeo_General_Utilities_UniqueCheckedItemsGroup.htm">
+              <HelpTOCNode Title="UpdateCheck Method " Url="html/M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup_UpdateCheck.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="876e1b23-477f-45ad-b1b6-12ecff0e1308" Title="TupleGeo.General.Windows.Data" Url="html/N_TupleGeo_General_Windows_Data.htm">
+          <HelpTOCNode Id="894c3b85-32b7-4b64-bfdd-bb6679c60a91" Title="EnumToResourceDescriptionConverter Class" Url="html/T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm">
+            <HelpTOCNode Title="EnumToResourceDescriptionConverter Constructor " Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter__ctor.htm" />
+            <HelpTOCNode Id="bf55dff6-4854-4344-be17-5859948e82e5" Title="EnumToResourceDescriptionConverter Methods" Url="html/Methods_T_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter.htm">
+              <HelpTOCNode Title="Convert Method " Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_Convert.htm" />
+              <HelpTOCNode Title="ConvertBack Method " Url="html/M_TupleGeo_General_Windows_Data_EnumToResourceDescriptionConverter_ConvertBack.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+          <HelpTOCNode Id="82a2537b-bcb3-47db-bac5-be4545d31b58" Title="Filter Class" Url="html/T_TupleGeo_General_Windows_Data_Filter.htm">
+            <HelpTOCNode Title="Filter Constructor " Url="html/M_TupleGeo_General_Windows_Data_Filter__ctor.htm" />
+            <HelpTOCNode Title="Filter Methods" Url="html/Methods_T_TupleGeo_General_Windows_Data_Filter.htm" />
+            <HelpTOCNode Id="f95a17af-33ef-46e1-a87f-d5e31906ea86" Title="Filter Properties" Url="html/Properties_T_TupleGeo_General_Windows_Data_Filter.htm">
+              <HelpTOCNode Title="Callback Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Callback.htm" />
+              <HelpTOCNode Title="Description Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Description.htm" />
+              <HelpTOCNode Title="Id Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Id.htm" />
+              <HelpTOCNode Title="Name Property " Url="html/P_TupleGeo_General_Windows_Data_Filter_Name.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="Filter Events" Url="html/Events_T_TupleGeo_General_Windows_Data_Filter.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="91fcc99c-94f7-4ff3-a279-b0768afa8f25" Title="IFiltering Interface" Url="html/T_TupleGeo_General_Windows_Data_IFiltering.htm">
+            <HelpTOCNode Id="42abc95d-48cb-46d1-ba11-357cff129271" Title="IFiltering Properties" Url="html/Properties_T_TupleGeo_General_Windows_Data_IFiltering.htm">
+              <HelpTOCNode Title="CurrentFilter Property " Url="html/P_TupleGeo_General_Windows_Data_IFiltering_CurrentFilter.htm" />
+              <HelpTOCNode Title="Filters Property " Url="html/P_TupleGeo_General_Windows_Data_IFiltering_Filters.htm" />
+            </HelpTOCNode>
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c13914d-b33e-48a5-93bf-2093214fbe45" Title="TupleGeo.Presentation.Controls" Url="html/N_TupleGeo_Presentation_Controls.htm">
+        <HelpTOCNode Title="CollapseBoxClickedEventHandler Delegate" Url="html/T_TupleGeo_Presentation_Controls_CollapseBoxClickedEventHandler.htm" />
+        <HelpTOCNode Id="694a0f19-7885-4618-85c9-011c275eda11" Title="CollapsibleGroupBox Class" Url="html/T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm">
+          <HelpTOCNode Id="7524992a-671a-49da-83d3-0c46da018c6f" Title="CollapsibleGroupBox Constructor " Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox__ctor.htm">
+            <HelpTOCNode Title="CollapsibleGroupBox Constructor " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox__ctor.htm" />
+            <HelpTOCNode Title="CollapsibleGroupBox Constructor (IContainer)" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox__ctor_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="436371d2-3c6d-4fb2-8bd2-e5654dd33aa9" Title="CollapsibleGroupBox Methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm">
+            <HelpTOCNode Id="875fbb15-51dd-4945-a695-0e6609b0da0e" Title="Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_CollapsibleGroupBox_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_Dispose.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="DrawGroupBox Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawGroupBox.htm" />
+            <HelpTOCNode Title="DrawToggleButton Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_DrawToggleButton.htm" />
+            <HelpTOCNode Title="HandleResize Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_HandleResize.htm" />
+            <HelpTOCNode Title="InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_InitializeComponent.htm" />
+            <HelpTOCNode Title="OnMouseUp Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnMouseUp.htm" />
+            <HelpTOCNode Title="OnPaint Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_OnPaint.htm" />
+            <HelpTOCNode Title="ToggleCollapsed Method " Url="html/M_TupleGeo_Presentation_Controls_CollapsibleGroupBox_ToggleCollapsed.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="6e977849-b77a-4a2d-beb4-16f106c91ead" Title="CollapsibleGroupBox Properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm">
+            <HelpTOCNode Title="CollapsedHeight Property " Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapsedHeight.htm" />
+            <HelpTOCNode Title="FullHeight Property " Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_FullHeight.htm" />
+            <HelpTOCNode Title="IsCollapsed Property " Url="html/P_TupleGeo_Presentation_Controls_CollapsibleGroupBox_IsCollapsed.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9a89a0a7-0f55-4bc1-9b63-7c602d9c1154" Title="CollapsibleGroupBox Events" Url="html/Events_T_TupleGeo_Presentation_Controls_CollapsibleGroupBox.htm">
+            <HelpTOCNode Title="CollapseBoxClickedEvent Event" Url="html/E_TupleGeo_Presentation_Controls_CollapsibleGroupBox_CollapseBoxClickedEvent.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="eebe3787-b993-475b-befe-2f711e4fd125" Title="GenericToolStripDropDown Class" Url="html/T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm">
+          <HelpTOCNode Title="GenericToolStripDropDown Constructor " Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown__ctor.htm" />
+          <HelpTOCNode Id="4870063f-de33-4482-86b5-a584ee2d4af2" Title="GenericToolStripDropDown Methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm">
+            <HelpTOCNode Id="56361384-a8b1-4071-9c49-1a61a522488a" Title="Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_GenericToolStripDropDown_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_Dispose.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_InitializeComponent.htm" />
+            <HelpTOCNode Title="OnPaint Method " Url="html/M_TupleGeo_Presentation_Controls_GenericToolStripDropDown_OnPaint.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GenericToolStripDropDown Properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+          <HelpTOCNode Title="GenericToolStripDropDown Events" Url="html/Events_T_TupleGeo_Presentation_Controls_GenericToolStripDropDown.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7325063c-c60d-48fd-ab49-9aefe7e8bf01" Title="LoginControl Class" Url="html/T_TupleGeo_Presentation_Controls_LoginControl.htm">
+          <HelpTOCNode Title="LoginControl Constructor " Url="html/M_TupleGeo_Presentation_Controls_LoginControl__ctor.htm" />
+          <HelpTOCNode Id="b665063d-a022-4809-b293-869aeb038bc8" Title="LoginControl Methods" Url="html/Methods_T_TupleGeo_Presentation_Controls_LoginControl.htm">
+            <HelpTOCNode Id="a988a25c-33b4-4491-99c1-71f1a207d2b0" Title="Dispose Method " Url="html/Overload_TupleGeo_Presentation_Controls_LoginControl_Dispose.htm">
+              <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/M_TupleGeo_Presentation_Controls_LoginControl_Dispose.htm" />
+            </HelpTOCNode>
+            <HelpTOCNode Title="InitializeComponent Method " Url="html/M_TupleGeo_Presentation_Controls_LoginControl_InitializeComponent.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9bcd75ae-c62a-4c9a-a2a1-787c262c202d" Title="LoginControl Properties" Url="html/Properties_T_TupleGeo_Presentation_Controls_LoginControl.htm">
+            <HelpTOCNode Title="CancelButton Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_CancelButton.htm" />
+            <HelpTOCNode Title="OkButton Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_OkButton.htm" />
+            <HelpTOCNode Title="PasswordTextBox Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_PasswordTextBox.htm" />
+            <HelpTOCNode Title="RememberPasswordCheckBox Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_RememberPasswordCheckBox.htm" />
+            <HelpTOCNode Title="UserNamesComboBox Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_UserNamesComboBox.htm" />
+            <HelpTOCNode Title="WarningLabel Property " Url="html/P_TupleGeo_Presentation_Controls_LoginControl_WarningLabel.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="LoginControl Events" Url="html/Events_T_TupleGeo_Presentation_Controls_LoginControl.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

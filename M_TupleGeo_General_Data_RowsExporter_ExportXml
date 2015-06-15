@@ -1,0 +1,27 @@
+# RowsExporter.ExportXml Method 
+ 
+
+Exports the rows of a <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> as XML.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Data">TupleGeo.General.Data</a><br />**Assembly:**&nbsp;TupleGeo.General.Windows.Forms (in TupleGeo.General.Windows.Forms.dll) Version: 1.1.5.21939 (1.1.5)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static void ExportXml(
+	DataGridView dataGridView,
+	TextWriter textWriter,
+	bool exportSelected
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>dataGridView</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">System.Windows.Forms.DataGridView</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> containing the rows to be exported.</dd><dt>textWriter</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/ywxh2328" target="_blank">System.IO.TextWriter</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/ywxh2328" target="_blank">TextWriter</a> that will be used to write the rows.</dd><dt>exportSelected</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/a28wyd50" target="_blank">System.Boolean</a><br />Indicates whether all rows or the selected rows will be exported.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Data_RowsExporter">RowsExporter Class</a><br /><a href="N_TupleGeo_General_Data">TupleGeo.General.Data Namespace</a><br />

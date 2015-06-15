@@ -1,0 +1,33 @@
+# ActionCommand.AddListener(*TEntity*) Method 
+ 
+
+Adds a command listener.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.21940 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public ActionCommand AddListener<TEntity>(
+	INotifyPropertyChanged source,
+	Expression<Func<TEntity, Object>> property
+)
+
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>source</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/ms133020" target="_blank">System.ComponentModel.INotifyPropertyChanged</a><br />The source of the command.</dd><dt>property</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/bb335710" target="_blank">System.Linq.Expressions.Expression</a>(<a href="http://msdn2.microsoft.com/en-us/library/bb549151" target="_blank">Func</a>(*TEntity*, <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>))<br />The property of the TEntity.</dd></dl>
+
+#### Type Parameters
+&nbsp;<dl><dt>TEntity</dt><dd>The entity used.</dd></dl>
+
+#### Return Value
+Type: <a href="T_TupleGeo_Apps_Presentation_Commands_ActionCommand">ActionCommand</a><br />An ActionCommand.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_Commands_ActionCommand">ActionCommand Class</a><br /><a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands Namespace</a><br />

@@ -1,0 +1,11 @@
+# TupleGeo.General.Data.SqlServer Namespace
+ 
+
+Classes for data stored using SQLServer.
+
+
+## Classes
+&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Data_SqlServer_ConnectionDetails">ConnectionDetails</a></td><td>
+The details used to define an SQL Server connection as they appear in a connection string.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Data_SqlServer_ConnectionDetailsException">ConnectionDetailsException</a></td><td>
+The exception used for problems with the <a href="T_TupleGeo_General_Data_SqlServer_ConnectionDetails">ConnectionDetails</a>.</td></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Data_SqlServer_SqlServerUser">SqlServerUser</a></td><td>
+Defines an SQL Server user as it appears in a connection string.</td></tr></table>&nbsp;

@@ -1,0 +1,14 @@
+# TupleGeo.General.FileTypes Namespace
+ 
+
+File type enumerations.
+
+
+## Enumerations
+&nbsp;<table><tr><th></th><th>Enumeration</th><th>Description</th></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_EsriFileType">EsriFileType</a></td><td>
+Types of vector files.</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_ExecutableFileType">ExecutableFileType</a></td><td>
+Types of executable files.</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_RasterFileType">RasterFileType</a></td><td>
+Types of raster files.</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_SystemFileType">SystemFileType</a></td><td>
+Types of system files.</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_TextFileType">TextFileType</a></td><td>
+Types of text files.</td></tr><tr><td>![Public enumeration](media/pubenumeration.gif "Public enumeration")</td><td><a href="T_TupleGeo_General_FileTypes_VectorFileType">VectorFileType</a></td><td>
+Types of vector files.</td></tr></table>&nbsp;

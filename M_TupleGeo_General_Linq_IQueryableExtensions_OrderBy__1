@@ -1,0 +1,37 @@
+# IQueryableExtensions.OrderBy(*TEntity*) Method 
+ 
+
+Sorts the elements of a sequence in ascending order by using a specified property.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Linq">TupleGeo.General.Linq</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.21938 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static IQueryable<TEntity> OrderBy<TEntity>(
+	this IQueryable<TEntity> source,
+	string orderByProperty
+)
+where TEntity : class
+
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>source</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/bb351562" target="_blank">System.Linq.IQueryable</a>(*TEntity*)<br />The source that needs to be ordered.</dd><dt>orderByProperty</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The property name used to order the entities.</dd></dl>
+
+#### Type Parameters
+&nbsp;<dl><dt>TEntity</dt><dd>A class object.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/bb351562" target="_blank">IQueryable</a>(*TEntity*)<br />An <a href="http://msdn2.microsoft.com/en-us/library/bb351562" target="_blank">IQueryable(T)</a> of *TEntity*.
+
+#### Usage Note
+In Visual Basic and C#, you can call this method as an instance method on any object of type <a href="http://msdn2.microsoft.com/en-us/library/bb351562" target="_blank">IQueryable</a>(*TEntity*). When you use instance method syntax to call this method, omit the first parameter. For more information, see <a href="http://msdn.microsoft.com/en-us/library/bb384936.aspx">Extension Methods (Visual Basic)</a> or <a href="http://msdn.microsoft.com/en-us/library/bb383977.aspx">Extension Methods (C# Programming Guide)</a>.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Linq_IQueryableExtensions">IQueryableExtensions Class</a><br /><a href="N_TupleGeo_General_Linq">TupleGeo.General.Linq Namespace</a><br />

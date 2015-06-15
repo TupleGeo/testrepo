@@ -1,0 +1,25 @@
+# CollapsibleGroupBox.FullHeight Property 
+ 
+
+Gets the full height of the <a href="T_TupleGeo_Presentation_Forms_Controls_CollapsibleGroupBox">CollapsibleGroupBox</a> control.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Presentation_Forms_Controls">TupleGeo.Presentation.Forms.Controls</a><br />**Assembly:**&nbsp;TupleGeo.Presentation.Forms (in TupleGeo.Presentation.Forms.dll) Version: 1.2.1.21942 (1.2.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+[DesignerSerializationVisibilityAttribute(DesignerSerializationVisibility.Hidden)]
+[BrowsableAttribute(false)]
+public int FullHeight { get; }
+```
+
+
+#### Property Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/td2s409d" target="_blank">Int32</a>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Presentation_Forms_Controls_CollapsibleGroupBox">CollapsibleGroupBox Class</a><br /><a href="N_TupleGeo_Presentation_Forms_Controls">TupleGeo.Presentation.Forms.Controls Namespace</a><br />

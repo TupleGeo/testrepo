@@ -1,9 +1,0 @@
-# TupleGeo.General.Serialization Namespace
- 
-
--
-
-
-## Classes
-&nbsp;<table><tr><th></th><th>Class</th><th>Description</th></tr><tr><td>![Public class](media/pubclass.gif "Public class")</td><td><a href="T_TupleGeo_General_Serialization_XmlSerializer">XmlSerializer</a></td><td>
-Provides methods to serialize and deserialize objects to or from xml.</td></tr></table>&nbsp;

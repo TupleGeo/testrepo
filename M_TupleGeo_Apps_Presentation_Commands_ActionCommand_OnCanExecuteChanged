@@ -1,0 +1,20 @@
+# ActionCommand.OnCanExecuteChanged Method 
+ 
+
+Fires when can execute has been changed.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands</a><br />**Assembly:**&nbsp;TupleGeo.Apps.Presentation (in TupleGeo.Apps.Presentation.dll) Version: 1.0.1.21940 (1.0.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public void OnCanExecuteChanged()
+```
+
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Apps_Presentation_Commands_ActionCommand">ActionCommand Class</a><br /><a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands Namespace</a><br />

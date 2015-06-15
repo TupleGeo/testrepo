@@ -1,0 +1,10 @@
+# TupleGeo.Apps Namespaces
+ 
+
+Classes related to application development.
+
+
+## Namespaces
+&nbsp;<table><tr><th>Namespace</th><th>Description</th></tr><tr><td><a href="N_TupleGeo_Apps">TupleGeo.Apps</a></td><td>
+Provides the Model and View aspects for application development.</td></tr><tr><td><a href="G_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation</a></td><td>
+Classes necessary for building WPF applications.</td></tr></table>&nbsp;

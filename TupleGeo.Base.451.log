@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder" version="2015.5.2.0" projectFile="C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\TupleGeo.Base.451.Markdown.shfbproj" started="15/06/2015 13:21:20">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Locating components in the following folder(s):
+   C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master
+Using presentation style &#39;Markdown&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown&#39;
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps\TupleGeo.Apps.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps\TupleGeo.Apps.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps.Presentation\TupleGeo.Apps.Presentation.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps.Presentation\TupleGeo.Apps.Presentation.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps.Presentation\TupleGeo.Apps.Presentation.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps\TupleGeo.Apps.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.ComponentModel.Design\TupleGeo.General.ComponentModel.Design.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.ComponentModel.Design\TupleGeo.General.ComponentModel.Design.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.ComponentModel.Design\TupleGeo.General.ComponentModel.Design.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General\TupleGeo.General.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General\TupleGeo.General.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Text.Greek\TupleGeo.General.Text.Greek.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Text.Greek\TupleGeo.General.Text.Greek.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Text.Greek\TupleGeo.General.Text.Greek.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Forms\TupleGeo.General.Windows.Forms.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Forms\TupleGeo.General.Windows.Forms.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Forms\TupleGeo.General.Windows.Forms.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Presentation\TupleGeo.General.Windows.Presentation.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Presentation\TupleGeo.General.Windows.Presentation.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Presentation\TupleGeo.General.Windows.Presentation.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General\TupleGeo.General.xml
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Presentation.Forms\TupleGeo.Presentation.Forms.dll
+    Found assembly &#39;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Presentation.Forms\TupleGeo.Presentation.Forms.dll&#39;
+Source: C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Presentation.Forms\TupleGeo.Presentation.Forms.xml
+
+Copying XML comments files
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps.Presentation\TupleGeo.Apps.Presentation.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.Apps.Presentation.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Apps\TupleGeo.Apps.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.Apps.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.ComponentModel.Design\TupleGeo.General.ComponentModel.Design.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.General.ComponentModel.Design.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Text.Greek\TupleGeo.General.Text.Greek.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.General.Text.Greek.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Forms\TupleGeo.General.Windows.Forms.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.General.Windows.Forms.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General.Windows.Presentation\TupleGeo.General.Windows.Presentation.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.General.Windows.Presentation.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.General\TupleGeo.General.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.General.XML
+    C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\bin\Any_CPU.Debug451\TupleGeo.Presentation.Forms\TupleGeo.Presentation.Forms.XML -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TupleGeo.Presentation.Forms.XML
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+    Last step completed in 00:00:00.0625
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0575
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 15/06/2015 13:21:21.
+Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 8 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 22 namespaces, 51 types, and 343 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
+    Last step completed in 00:00:01.5511
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 15/06/2015 13:21:22.
+Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.ungrouped&quot;.
+  AddNamespaceGroups (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Added 3 namespace group entries
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+    Unique name M_TupleGeo_Apps_Presentation_Commands_ActionCommand_RequeryCanExecute_1 generated for M:TupleGeo.Apps.Presentation.Commands.ActionCommand.RequeryCanExecute(System.Object,System.ComponentModel.PropertyChangedEventArgs)
+    Unique name M_TupleGeo_General_GeneralException__ctor_1 generated for M:TupleGeo.General.GeneralException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_TupleGeo_General_GeneralException__ctor_2 generated for M:TupleGeo.General.GeneralException.#ctor(System.String)
+    Unique name M_TupleGeo_General_GeneralException__ctor_3 generated for M:TupleGeo.General.GeneralException.#ctor(System.String,System.Exception)
+    Unique name M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingAttribute_1 generated for M:TupleGeo.General.Attributes.AttributeHelper.GetFirstMatchingAttribute(System.Type,System.Type)
+    Unique name M_TupleGeo_General_Attributes_AttributeHelper_GetFirstMatchingCustomAttribute_1 generated for M:TupleGeo.General.Attributes.AttributeHelper.GetFirstMatchingCustomAttribute(System.Type,System.Type)
+    Unique name M_TupleGeo_General_Attributes_AttributeHelper_GetMatchingAttributes_1 generated for M:TupleGeo.General.Attributes.AttributeHelper.GetMatchingAttributes(System.Type,System.Type)
+    Unique name M_TupleGeo_General_Attributes_DescriptionAttribute__ctor_1 generated for M:TupleGeo.General.Attributes.DescriptionAttribute.#ctor(System.String,System.String)
+    Unique name M_TupleGeo_General_Attributes_DescriptionAttribute_GetEnumeratedValueDescriptionAttribute_1 generated for M:TupleGeo.General.Attributes.DescriptionAttribute.GetEnumeratedValueDescriptionAttribute(System.Object,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_1 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescription(System.Enum,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_2 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescription(System.Type,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescription_3 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescription(System.Type,System.String,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_1 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescriptions(System.Enum,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_2 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescriptions(System.Type)
+    Unique name M_TupleGeo_General_ComponentModel_EnumDescriptionConverter_GetEnumDescriptions_3 generated for M:TupleGeo.General.ComponentModel.EnumDescriptionConverter.GetEnumDescriptions(System.Type,System.String)
+    Unique name M_TupleGeo_General_ComponentModel_ObservableObject_1_OnPropertyChanged_1 generated for M:TupleGeo.General.ComponentModel.ObservableObject`1.OnPropertyChanged(System.String)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetails__ctor_1 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetails.#ctor(System.String,System.Boolean)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetails_FromConnectionString_1 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetails.FromConnectionString(System.String,System.String,System.String)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetails_ToConnectionString_1 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetails.ToConnectionString(System.String,System.String,System.String)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_1 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetailsException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_2 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetailsException.#ctor(System.String)
+    Unique name M_TupleGeo_General_Data_SqlServer_ConnectionDetailsException__ctor_3 generated for M:TupleGeo.General.Data.SqlServer.ConnectionDetailsException.#ctor(System.String,System.Exception)
+    Unique name M_TupleGeo_General_Security_CryptographicStringException__ctor_1 generated for M:TupleGeo.General.Security.CryptographicStringException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+    Unique name M_TupleGeo_General_Security_CryptographicStringException__ctor_2 generated for M:TupleGeo.General.Security.CryptographicStringException.#ctor(System.String)
+    Unique name M_TupleGeo_General_Security_CryptographicStringException__ctor_3 generated for M:TupleGeo.General.Security.CryptographicStringException.#ctor(System.String,System.Exception)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_1 generated for M:TupleGeo.General.Serialization.XmlSerializer.Deserialize(System.Type,System.IO.Stream)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_2 generated for M:TupleGeo.General.Serialization.XmlSerializer.Deserialize(System.Type,System.String)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Deserialize_3 generated for M:TupleGeo.General.Serialization.XmlSerializer.Deserialize(System.Type,System.String,System.Text.Encoding)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Serialize_1 generated for M:TupleGeo.General.Serialization.XmlSerializer.Serialize(System.Object,System.Byte[]@)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Serialize_2 generated for M:TupleGeo.General.Serialization.XmlSerializer.Serialize(System.Object,System.IO.Stream)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Serialize_3 generated for M:TupleGeo.General.Serialization.XmlSerializer.Serialize(System.Object,System.IO.Stream,System.Text.Encoding)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Serialize_4 generated for M:TupleGeo.General.Serialization.XmlSerializer.Serialize(System.Object,System.String)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_Serialize_5 generated for M:TupleGeo.General.Serialization.XmlSerializer.Serialize(System.Object,System.String,System.Text.Encoding)
+    Unique name M_TupleGeo_General_Serialization_XmlSerializer_SerializeToString_1 generated for M:TupleGeo.General.Serialization.XmlSerializer.SerializeToString(System.Object,System.Text.Encoding)
+    Unique name M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Convert_1 generated for M:TupleGeo.General.Text.Greek.GreekToLatinTranscribe.Convert(System.String,TupleGeo.General.Text.Greek.GreekToLatinConversionMode)
+    Unique name M_TupleGeo_General_Text_Greek_GreekToLatinTranscribe_Replace_1 generated for M:TupleGeo.General.Text.Greek.GreekToLatinTranscribe.Replace(System.String,System.Boolean,TupleGeo.General.Text.Greek.GreekToLatinConversionMode)
+    Unique name M_TupleGeo_General_Utilities_UniqueCheckedItemsGroup__ctor_1 generated for M:TupleGeo.General.Utilities.UniqueCheckedItemsGroup.#ctor(System.Object)
+    Unique name M_TupleGeo_Presentation_Forms_Controls_CollapsibleGroupBox__ctor_1 generated for M:TupleGeo.Presentation.Forms.Controls.CollapsibleGroupBox.#ctor(System.ComponentModel.IContainer)
+  XslTransform (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.42
+    Last step completed in 00:00:02.6391
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.1025
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0225
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0100
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 15/06/2015 13:21:25.
+Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.33
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.4195
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.5330
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\sandcastle.config
+    Last step completed in 00:00:00.0700
+</buildStep>
+<buildStep step="BuildReferenceTopics">
+Building reference help topics...
+[C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+Build started 15/06/2015 13:21:26.
+Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+BuildReferenceTopics:
+  BuildAssembler (v2015.5.2.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.DataBind] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox_MouseClick(System.Object,System.Windows.Forms.MouseEventArgs)] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox_SelectedValueChanged(System.Object,System.EventArgs)] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.EnumDescriptionEditorControl.EnumDescriptionsListBox&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.DeleteObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.NewObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.DeleteObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Methods.T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.NewObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.DeleteObjectToolStripButton_Click(System.Object,System.EventArgs)] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.DeleteObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [M:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.NewObjectToolStripButton_Click(System.Object,System.EventArgs)] Unknown reference link target &#39;F:TupleGeo.General.ComponentModel.Design.GeneralObjectEditorControl.NewObjectToolStripButton&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.Presentation.Forms.Controls.GenericToolStripDropDown] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:TupleGeo.Presentation.Forms.Controls.GenericToolStripDropDown] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [T:TupleGeo.Presentation.Forms.Controls.LoginControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+BuildAssembler : warning : ResolveReferenceLinksComponent: [Properties.T:TupleGeo.Presentation.Forms.Controls.LoginControl] MSDN URL not found for target &#39;P:System.Windows.Forms.ScrollableControl.System#Windows#Forms#Layout#IArrangedElement#DisplayRectangle&#39;. [C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj]
+  Processed 409 topic(s)
+  23 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 15 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 13 of 30.
+Done Building Project &quot;C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\BuildReferenceTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:26.17
+    Last step completed in 00:00:26.3232
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+
+Clearing any prior web/markdown output
+    Last step completed in 00:00:00.0120
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertCaution.png -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertNote.png -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\AlertSecurity.png -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\CFW.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\CodeExample.png -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privclass.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privdelegate.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privenumeration.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privevent.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privextension.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privfield.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privinterface.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privmethod.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privproperty.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\privstructure.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protclass.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protdelegate.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protenumeration.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protevent.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protextension.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protfield.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protinterface.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protmethod.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protoperator.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protproperty.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\protstructure.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubclass.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubdelegate.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubenumeration.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubevent.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubextension.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubfield.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubinterface.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubmethod.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\puboperator.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubproperty.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\pubstructure.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\slMobile.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\static.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\media\xna.gif -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\media\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\Markdown\MarkdownContent\_Footer.md -&gt; C:\Users\mzdssvv2\SoftDev\Projects\TupleGeo\Base\Branches\master\doc\Any_CPU.Debug451\Markdown\Temp\Output\Markdown\_Footer.md
+    Last step completed in 00:00:00.6820
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Executing informational Generate Table of Contents build step for plug-ins (not used for Markdown)
+    Last step completed in 00:00:00.0100
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Executing informational Generate Help Project build step for plug-ins (not used for Markdown)
+    Last step completed in 00:00:00.0050
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Generating markdown content...
+[C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
+  Finished generating 409 topics
+  Copying content to output folder...
+  Finished copying 452 files
+    Last step completed in 00:00:04.9142
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00.6685
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 15/06/2015 13:21:59.  Total time: 00:00:39.0218
+
+</buildStep>
+</shfbBuild>

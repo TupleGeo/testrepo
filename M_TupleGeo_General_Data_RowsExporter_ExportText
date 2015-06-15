@@ -1,0 +1,28 @@
+# RowsExporter.ExportText Method 
+ 
+
+Exports the contents of a <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> in to a text file.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Data">TupleGeo.General.Data</a><br />**Assembly:**&nbsp;TupleGeo.General.Windows.Forms (in TupleGeo.General.Windows.Forms.dll) Version: 1.1.5.21939 (1.1.5)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static void ExportText(
+	DataGridView dataGridView,
+	StreamWriter streamWriter,
+	bool exportSelected,
+	string separator
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>dataGridView</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">System.Windows.Forms.DataGridView</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/wc5cbb9z" target="_blank">DataGridView</a> containing the rows to be exported.</dd><dt>streamWriter</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/3ssew6tk" target="_blank">System.IO.StreamWriter</a><br />The <a href="http://msdn2.microsoft.com/en-us/library/3ssew6tk" target="_blank">StreamWriter</a> that will be used to write the rows.</dd><dt>exportSelected</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/a28wyd50" target="_blank">System.Boolean</a><br />Indicates whether all rows or the selected rows will be exported.</dd><dt>separator</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The separator <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a> used to separate the field values.</dd></dl>
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Data_RowsExporter">RowsExporter Class</a><br /><a href="N_TupleGeo_General_Data">TupleGeo.General.Data Namespace</a><br />

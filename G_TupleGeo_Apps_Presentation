@@ -1,0 +1,11 @@
+# TupleGeo.Apps.Presentation Namespaces
+ 
+
+Classes necessary for building WPF applications.
+
+
+## Namespaces
+&nbsp;<table><tr><th>Namespace</th><th>Description</th></tr><tr><td><a href="N_TupleGeo_Apps_Presentation">TupleGeo.Apps.Presentation</a></td><td>
+Classes necessary for building WPF applications using the MVVM pattern.</td></tr><tr><td><a href="N_TupleGeo_Apps_Presentation_Commands">TupleGeo.Apps.Presentation.Commands</a></td><td>
+Classes related to WPF commands.</td></tr><tr><td><a href="N_TupleGeo_Apps_Presentation_Observers">TupleGeo.Apps.Presentation.Observers</a></td><td>
+Provides observers for WPF applications.</td></tr></table>&nbsp;

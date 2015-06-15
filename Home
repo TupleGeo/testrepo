@@ -1,0 +1,11 @@
+# TupleGeo.Base
+ 
+
+TupleGeo.Base is a library providing various general purpose utilities that can be used for building desktop and web .NET applications. The library has been packaged in a series of DLL files targeting different aspects of the .NET platform. It is also providing a simple Model - View - View Model framework for building desktop applications targeting the Windows Presentation Foundation (WPF).
+
+
+## Namespaces
+&nbsp;<table><tr><th>Namespace</th><th>Description</th></tr><tr><td><a href="G_TupleGeo_Apps.md">TupleGeo.Apps</a></td><td>
+Classes related to application development.</td></tr><tr><td><a href="G_TupleGeo_General.md">TupleGeo.General</a></td><td>
+The root utility classes namespace.</td></tr><tr><td><a href="N_TupleGeo_Presentation_Forms_Controls.md">TupleGeo.Presentation.Forms.Controls</a></td><td>
+A collection of Windows Forms Controls.</td></tr></table>&nbsp;

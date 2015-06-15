@@ -1,0 +1,23 @@
+# CodePage Enumeration
+ 
+
+The codepages enumeration.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Text">TupleGeo.General.Text</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.21938 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public enum CodePage
+```
+
+
+## Members
+&nbsp;<table><tr><th></th><th>Member name</th><th>Value</th><th>Description</th></tr><tr><td /><td target="F:TupleGeo.General.Text.CodePage.Windows1252">**Windows1252**</td><td>1252</td><td>The Windows latin 1252 codepage.</td></tr><tr><td /><td target="F:TupleGeo.General.Text.CodePage.Greek">**Greek**</td><td>1253</td><td>The Greek codepage.</td></tr></table>
+
+## See Also
+
+
+#### Reference
+<a href="N_TupleGeo_General_Text">TupleGeo.General.Text Namespace</a><br />

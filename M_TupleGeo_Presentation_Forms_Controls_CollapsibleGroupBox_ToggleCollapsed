@@ -1,0 +1,20 @@
+# CollapsibleGroupBox.ToggleCollapsed Method 
+ 
+
+Toggles the group box.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_Presentation_Forms_Controls">TupleGeo.Presentation.Forms.Controls</a><br />**Assembly:**&nbsp;TupleGeo.Presentation.Forms (in TupleGeo.Presentation.Forms.dll) Version: 1.2.1.21942 (1.2.1)
+
+## Syntax
+
+**C#**<br />
+``` C#
+private void ToggleCollapsed()
+```
+
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_Presentation_Forms_Controls_CollapsibleGroupBox">CollapsibleGroupBox Class</a><br /><a href="N_TupleGeo_Presentation_Forms_Controls">TupleGeo.Presentation.Forms.Controls Namespace</a><br />

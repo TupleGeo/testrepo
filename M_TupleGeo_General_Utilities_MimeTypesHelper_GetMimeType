@@ -1,0 +1,31 @@
+# MimeTypesHelper.GetMimeType Method 
+ 
+
+Gets the mime type using a file extension.
+
+**Namespace:**&nbsp;<a href="N_TupleGeo_General_Utilities">TupleGeo.General.Utilities</a><br />**Assembly:**&nbsp;TupleGeo.General (in TupleGeo.General.dll) Version: 2.1.0.21938 (2.1.0)
+
+## Syntax
+
+**C#**<br />
+``` C#
+public static string GetMimeType(
+	string fileExtension
+)
+```
+
+
+#### Parameters
+&nbsp;<dl><dt>fileExtension</dt><dd>Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">System.String</a><br />The extension of a file.</dd></dl>
+
+#### Return Value
+Type: <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a><br />A <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf" target="_blank">String</a> indicating the mime type.
+
+## Remarks
+The method uses the windows registry to match file extensions to known mime types.
+
+## See Also
+
+
+#### Reference
+<a href="T_TupleGeo_General_Utilities_MimeTypesHelper">MimeTypesHelper Class</a><br /><a href="N_TupleGeo_General_Utilities">TupleGeo.General.Utilities Namespace</a><br />

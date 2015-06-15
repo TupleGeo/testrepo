@@ -1,0 +1,25 @@
+# TupleGeo.General Namespaces
+ 
+
+The root utility classes namespace.
+
+
+## Namespaces
+&nbsp;<table><tr><th>Namespace</th><th>Description</th></tr><tr><td><a href="N_TupleGeo_General">TupleGeo.General</a></td><td>
+The root for the utility library.</td></tr><tr><td><a href="N_TupleGeo_General_Attributes">TupleGeo.General.Attributes</a></td><td>
+Custom attributes and utilities for attributes.</td></tr><tr><td><a href="N_TupleGeo_General_ComponentModel">TupleGeo.General.ComponentModel</a></td><td>
+Classes related to .NET framework ComponentModel.</td></tr><tr><td><a href="N_TupleGeo_General_ComponentModel_Design">TupleGeo.General.ComponentModel.Design</a></td><td>
+Editors used by a PropertyGrid.</td></tr><tr><td><a href="N_TupleGeo_General_Data">TupleGeo.General.Data</a></td><td>
+Classes related to data manipulation.</td></tr><tr><td><a href="N_TupleGeo_General_Data_SqlServer">TupleGeo.General.Data.SqlServer</a></td><td>
+Classes for data stored using SQLServer.</td></tr><tr><td><a href="N_TupleGeo_General_FileSystem">TupleGeo.General.FileSystem</a></td><td>
+Utilities related to the file system.</td></tr><tr><td><a href="N_TupleGeo_General_FileTypes">TupleGeo.General.FileTypes</a></td><td>
+File type enumerations.</td></tr><tr><td><a href="N_TupleGeo_General_Linq">TupleGeo.General.Linq</a></td><td>
+Utilities related to LINQ.</td></tr><tr><td><a href="N_TupleGeo_General_Linq_Expressions">TupleGeo.General.Linq.Expressions</a></td><td>
+Utilities related to LINQ expresssions.</td></tr><tr><td><a href="N_TupleGeo_General_Reflection">TupleGeo.General.Reflection</a></td><td>
+Utilities related to reflection.</td></tr><tr><td><a href="N_TupleGeo_General_Security">TupleGeo.General.Security</a></td><td>
+Utilities used for cryptography.</td></tr><tr><td><a href="N_TupleGeo_General_Serialization">TupleGeo.General.Serialization</a></td><td>
+Utilities for object serialization.</td></tr><tr><td><a href="N_TupleGeo_General_Text">TupleGeo.General.Text</a></td><td>
+Classes for text manipulation.</td></tr><tr><td><a href="N_TupleGeo_General_Text_Greek">TupleGeo.General.Text.Greek</a></td><td>
+Utilities used for Greek text manipulation.</td></tr><tr><td><a href="N_TupleGeo_General_Utilities">TupleGeo.General.Utilities</a></td><td>
+Provides general utilities.</td></tr><tr><td><a href="N_TupleGeo_General_Windows_Data">TupleGeo.General.Windows.Data</a></td><td>
+Classes related to data in WPF applications.</td></tr></table>&nbsp;
